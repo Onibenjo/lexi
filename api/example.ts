@@ -1,4 +1,4 @@
-import { clip, completeJson, guard, json, readBody } from './_lib/openrouter'
+import { clip, completeJson, guard, json, readBody } from './_lib/openrouter.js'
 
 const SYSTEM = `You write example sentences for an English vocabulary app for adult learners.
 Write ONE natural, modern sentence (8–20 words) using the target word with the given meaning, set in everyday life or work (messages, meetings, money, family, travel, food, school).

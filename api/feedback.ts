@@ -1,4 +1,4 @@
-import { clip, completeJson, guard, json, readBody } from './_lib/openrouter'
+import { clip, completeJson, guard, json, readBody } from './_lib/openrouter.js'
 
 const SYSTEM = `You are a warm, precise English tutor. An adult learner (often a Nigerian or West African English speaker) wrote one sentence to practise a new word.
 Judge ONLY: is the target word used with the right meaning, is the grammar correct, does it sound natural to a native speaker.
