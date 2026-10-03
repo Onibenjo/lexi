@@ -1,0 +1,2450 @@
+[
+ {
+  "id": "hesitate",
+  "word": "hesitate",
+  "ipa": "/ˈhez.ɪ.teɪt/",
+  "pos": "verb",
+  "definition": "To pause before doing or saying something because you are nervous or not sure.",
+  "examples": [
+   "Please don't hesitate to call me if the invoice looks wrong.",
+   "She hesitated at the door, then walked into the interview room."
+  ],
+  "collocations": [
+   "hesitate to ask",
+   "without hesitating",
+   "hesitate for a moment"
+  ],
+  "family": [
+   "hesitation (n)",
+   "hesitant (adj)",
+   "hesitantly (adv)"
+  ],
+  "pattern": {
+   "rule": "hesitate + to + verb",
+   "example": "Don't hesitate to message me after hours."
+  },
+  "forms": [
+   "hesitate",
+   "hesitates",
+   "hesitated",
+   "hesitating"
+  ],
+  "cloze": {
+   "sentence": "When the bank offered him the loan, he did not ___ for a second.",
+   "answer": "hesitate"
+  },
+  "formDrill": {
+   "sentence": "She gave a ___ smile before answering the question.",
+   "base": "hesitate",
+   "answer": "hesitant"
+  },
+  "fix": {
+   "wrong": "Don't hesitate to asking me for help.",
+   "right": "Don't hesitate to ask me for help.",
+   "why": "After hesitate, use to + verb, not -ing."
+  },
+  "distractors": [
+   "To act very quickly without thinking.",
+   "To refuse something in an angry way.",
+   "To forget what you were about to say."
+  ],
+  "level": "everyday"
+ },
+ {
+  "id": "brevity",
+  "word": "brevity",
+  "ipa": "/ˈbrev.ə.ti/",
+  "pos": "noun",
+  "definition": "The quality of being short, especially in speech or writing.",
+  "examples": [
+   "The manager praised the brevity of her weekly report.",
+   "In a text message, brevity matters more than perfect grammar."
+  ],
+  "collocations": [
+   "brevity of",
+   "value brevity",
+   "for the sake of brevity"
+  ],
+  "family": [
+   "brief (adj)",
+   "briefly (adv)"
+  ],
+  "pattern": {
+   "rule": "brevity = uncountable noun",
+   "example": "Brevity is important in a CV."
+  },
+  "forms": [
+   "brevity"
+  ],
+  "cloze": {
+   "sentence": "The email was a model of ___: just two clear lines.",
+   "answer": "brevity"
+  },
+  "formDrill": {
+   "sentence": "Please keep your speech ___ because we are short of time.",
+   "base": "brevity",
+   "answer": "brief"
+  },
+  "fix": {
+   "wrong": "Please be brevity in your emails.",
+   "right": "Please be brief in your emails.",
+   "why": "After 'be', use the adjective 'brief', not the noun 'brevity'."
+  },
+  "distractors": [
+   "A feeling of great energy and speed.",
+   "Too much detail in a long explanation.",
+   "Great skill in speaking to a crowd."
+  ],
+  "tip": "Brevity is the noun for \"being brief\"; do not confuse it with \"breeze\" or \"bravery\".",
+  "level": "advanced"
+ },
+ {
+  "id": "catalyst",
+  "word": "catalyst",
+  "ipa": "/ˈkæt.əl.ɪst/",
+  "pos": "noun",
+  "definition": "A person or event that causes an important change or action to happen.",
+  "examples": [
+   "The price increase was the catalyst for our move to a cheaper supplier.",
+   "Her speech acted as a catalyst for change in the school."
+  ],
+  "collocations": [
+   "act as a catalyst",
+   "catalyst for change",
+   "a powerful catalyst"
+  ],
+  "family": [
+   "catalyze (v)",
+   "catalytic (adj)"
+  ],
+  "pattern": {
+   "rule": "catalyst + for / of + noun",
+   "example": "Social media was a catalyst for the protests."
+  },
+  "forms": [
+   "catalyst",
+   "catalysts"
+  ],
+  "cloze": {
+   "sentence": "The new boss proved to be a ___ for growth in the sales team.",
+   "answer": "catalyst"
+  },
+  "formDrill": {
+   "sentence": "Social media was one of the main ___ for the protests.",
+   "base": "catalyst",
+   "answer": "catalysts"
+  },
+  "fix": {
+   "wrong": "The strike was a catalyst to the reforms.",
+   "right": "The strike was a catalyst for the reforms.",
+   "why": "Use \"catalyst for\" a change."
+  },
+  "distractors": [
+   "A rule that stops people from taking action.",
+   "A person who records events as they happen.",
+   "A small mistake that slows a project."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "cohesive",
+  "word": "cohesive",
+  "ipa": "/kəʊˈhiː.sɪv/",
+  "pos": "adjective",
+  "definition": "Joined together well so that the parts work or fit as one whole.",
+  "examples": [
+   "We need a cohesive plan, not ten separate ideas.",
+   "The team became more cohesive after the training trip."
+  ],
+  "collocations": [
+   "cohesive team",
+   "cohesive argument",
+   "cohesive whole"
+  ],
+  "family": [
+   "cohesion (n)",
+   "cohesively (adv)"
+  ],
+  "pattern": {
+   "rule": "cohesive + noun (team, plan, argument)",
+   "example": "She wrote a cohesive report."
+  },
+  "forms": [
+   "cohesive"
+  ],
+  "cloze": {
+   "sentence": "Using the same colors and fonts throughout gives the whole website a ___ look.",
+   "answer": "cohesive"
+  },
+  "formDrill": {
+   "sentence": "Good communication builds team ___.",
+   "base": "cohesive",
+   "answer": "cohesion"
+  },
+  "fix": {
+   "wrong": "Our group is very cohesion.",
+   "right": "Our group is very cohesive.",
+   "why": "\"Cohesion\" is a noun; the adjective is \"cohesive\"."
+  },
+  "distractors": [
+   "Very strict and unwilling to change.",
+   "Easy to understand at first reading.",
+   "Likely to cause arguments."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "mature",
+  "word": "mature",
+  "ipa": "/məˈtʃʊə/",
+  "pos": "adjective",
+  "definition": "Fully grown, or behaving in a sensible way like an adult.",
+  "examples": [
+   "He is very mature for a 19-year-old and manages his own business.",
+   "Wait until the fruit is mature before you harvest it."
+  ],
+  "collocations": [
+   "mature attitude",
+   "mature enough",
+   "mature student"
+  ],
+  "family": [
+   "maturity (n)",
+   "maturely (adv)",
+   "immature (adj)"
+  ],
+  "pattern": {
+   "rule": "mature + enough + to + verb",
+   "example": "She is mature enough to travel alone."
+  },
+  "forms": [
+   "mature"
+  ],
+  "cloze": {
+   "sentence": "Thank you for handling that argument in such a ___ way.",
+   "answer": "mature"
+  },
+  "formDrill": {
+   "sentence": "Teenagers slowly gain emotional ___.",
+   "base": "mature",
+   "answer": "maturity"
+  },
+  "fix": {
+   "wrong": "He is enough mature to drive.",
+   "right": "He is mature enough to drive.",
+   "why": "\"Enough\" comes after the adjective."
+  },
+  "distractors": [
+   "Old-fashioned and unwilling to learn.",
+   "Weak and in need of care.",
+   "Happy to take big risks."
+  ],
+  "tip": "Mature can also be polite for \"older\", as in \"mature students\".",
+  "level": "everyday"
+ },
+ {
+  "id": "complacent",
+  "word": "complacent",
+  "ipa": "/kəmˈpleɪ.sənt/",
+  "pos": "adjective",
+  "definition": "Too satisfied with how things are, so you stop trying or notice danger.",
+  "examples": [
+   "Don't get complacent just because sales were high last month.",
+   "The team grew complacent after three easy wins."
+  ],
+  "collocations": [
+   "become complacent",
+   "dangerously complacent",
+   "complacent about"
+  ],
+  "family": [
+   "complacency (n)",
+   "complacently (adv)"
+  ],
+  "pattern": {
+   "rule": "complacent + about + noun",
+   "example": "Never be complacent about security."
+  },
+  "forms": [
+   "complacent"
+  ],
+  "cloze": {
+   "sentence": "After years at the top, the company became ___ and lost customers.",
+   "answer": "complacent"
+  },
+  "formDrill": {
+   "sentence": "A sense of ___ can ruin a successful business.",
+   "base": "complacent",
+   "answer": "complacency"
+  },
+  "fix": {
+   "wrong": "Don't be complacent for your results.",
+   "right": "Don't be complacent about your results.",
+   "why": "Use \"complacent about\"."
+  },
+  "distractors": [
+   "Calm and polite when others are angry.",
+   "Eager to please everyone around you.",
+   "Afraid of change in the workplace."
+  ],
+  "tip": "Complacent is negative; do not confuse it with \"complaisant\" or \"content\".",
+  "level": "advanced"
+ },
+ {
+  "id": "conducive",
+  "word": "conducive",
+  "ipa": "/kənˈdjuː.sɪv/",
+  "pos": "adjective",
+  "definition": "Making a good result more likely to happen.",
+  "examples": [
+   "A quiet room is conducive to studying.",
+   "Long meetings are not conducive to creative thinking."
+  ],
+  "collocations": [
+   "conducive to",
+   "a conducive environment",
+   "not conducive"
+  ],
+  "family": [
+   "conduce (v)"
+  ],
+  "pattern": {
+   "rule": "conducive + to + noun / -ing",
+   "example": "The noise is not conducive to sleeping."
+  },
+  "forms": [
+   "conducive"
+  ],
+  "cloze": {
+   "sentence": "Loud music is hardly ___ to good customer conversations.",
+   "answer": "conducive"
+  },
+  "fix": {
+   "wrong": "A quiet place is conducive for reading.",
+   "right": "A quiet place is conducive to reading.",
+   "why": "Always use \"conducive to\"."
+  },
+  "distractors": [
+   "Strongly against a particular plan.",
+   "Easy to carry from place to place.",
+   "Based on proof and clear facts."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "conscientious",
+  "word": "conscientious",
+  "ipa": "/ˌkɒn.ʃiˈen.ʃəs/",
+  "pos": "adjective",
+  "definition": "Careful and serious about doing your work properly.",
+  "examples": [
+   "She is a conscientious nurse who never skips a check.",
+   "Be conscientious about meeting your deadlines."
+  ],
+  "collocations": [
+   "conscientious worker",
+   "conscientious about",
+   "conscientious student"
+  ],
+  "family": [
+   "conscientiously (adv)",
+   "conscientiousness (n)"
+  ],
+  "pattern": {
+   "rule": "conscientious + about + noun / -ing",
+   "example": "He is conscientious about paying his bills."
+  },
+  "forms": [
+   "conscientious"
+  ],
+  "cloze": {
+   "sentence": "Our ___ driver checks the tires before every trip.",
+   "answer": "conscientious"
+  },
+  "formDrill": {
+   "sentence": "She completed the audit ___ and found no errors.",
+   "base": "conscientious",
+   "answer": "conscientiously"
+  },
+  "fix": {
+   "wrong": "He is conscientious of his duties.",
+   "right": "He is conscientious about his duties.",
+   "why": "Use \"conscientious about\", not \"of\"."
+  },
+  "distractors": [
+   "Aware of what is happening around you.",
+   "Willing to forgive other people easily.",
+   "Very good at making quick decisions."
+  ],
+  "tip": "Do not confuse conscientious (careful) with conscious (awake or aware).",
+  "level": "advanced"
+ },
+ {
+  "id": "decent",
+  "word": "decent",
+  "ipa": "/ˈdiː.sənt/",
+  "pos": "adjective",
+  "definition": "Good enough in quality, or fair and honest in how you treat people.",
+  "examples": [
+   "I found a decent hotel near the airport for ₦30,000 a night.",
+   "He is a decent man who always pays his workers on time."
+  ],
+  "collocations": [
+   "decent salary",
+   "decent job",
+   "decent person"
+  ],
+  "family": [
+   "decently (adv)",
+   "decency (n)"
+  ],
+  "pattern": {
+   "rule": "decent + noun",
+   "example": "She earns a decent wage."
+  },
+  "forms": [
+   "decent"
+  ],
+  "cloze": {
+   "sentence": "After months of searching, he finally got a ___ job in Lagos.",
+   "answer": "decent"
+  },
+  "formDrill": {
+   "sentence": "It is a matter of basic ___ to say thank you.",
+   "base": "decent",
+   "answer": "decency"
+  },
+  "fix": {
+   "wrong": "He is a decency man.",
+   "right": "He is a decent man.",
+   "why": "\"Decency\" is a noun; use the adjective \"decent\"."
+  },
+  "distractors": [
+   "Very expensive and of the highest quality.",
+   "Polite only when others are watching.",
+   "Old and in poor condition."
+  ],
+  "tip": "Decent is not \"descent\" (going down); say \"decent\" /ˈdiː.sənt/.",
+  "level": "everyday"
+ },
+ {
+  "id": "culminate",
+  "word": "culminate",
+  "ipa": "/ˈkʌl.mɪ.neɪt/",
+  "pos": "verb",
+  "definition": "To reach a final, highest or most important point after a long process.",
+  "examples": [
+   "Months of training culminated in a win at the national finals.",
+   "The talks culminated in a signed agreement."
+  ],
+  "collocations": [
+   "culminate in",
+   "culminate with",
+   "finally culminate"
+  ],
+  "family": [
+   "culmination (n)"
+  ],
+  "pattern": {
+   "rule": "culminate + in + noun",
+   "example": "The protests culminated in a meeting with the governor."
+  },
+  "forms": [
+   "culminate",
+   "culminates",
+   "culminated",
+   "culminating"
+  ],
+  "cloze": {
+   "sentence": "Years of saving will ___ in the purchase of their first home.",
+   "answer": "culminate"
+  },
+  "formDrill": {
+   "sentence": "The wedding was the ___ of a two-year relationship.",
+   "base": "culminate",
+   "answer": "culmination"
+  },
+  "fix": {
+   "wrong": "The project culminated at a big launch.",
+   "right": "The project culminated in a big launch.",
+   "why": "Use \"culminate in\" a result."
+  },
+  "distractors": [
+   "To begin slowly and with little interest.",
+   "To stop suddenly because of a problem.",
+   "To grow by joining with another group."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "cumbersome",
+  "word": "cumbersome",
+  "ipa": "/ˈkʌm.bə.səm/",
+  "pos": "adjective",
+  "definition": "Large, heavy or slow to use, so it is difficult to handle.",
+  "examples": [
+   "The old software is cumbersome; it takes ten clicks to send one file.",
+   "Carrying that cumbersome suitcase through the market was tiring."
+  ],
+  "collocations": [
+   "cumbersome process",
+   "cumbersome procedure",
+   "cumbersome equipment"
+  ],
+  "family": [
+   "cumbersomely (adv)"
+  ],
+  "pattern": {
+   "rule": "cumbersome + noun",
+   "example": "They replaced the cumbersome approval process."
+  },
+  "forms": [
+   "cumbersome"
+  ],
+  "cloze": {
+   "sentence": "The visa application was a ___ process with many forms.",
+   "answer": "cumbersome"
+  },
+  "formDrill": {
+   "sentence": "The system works so ___ that staff avoid using it.",
+   "base": "cumbersome",
+   "answer": "cumbersomely"
+  },
+  "fix": {
+   "wrong": "The procedure is very cumbersomely.",
+   "right": "The procedure is very cumbersome.",
+   "why": "After \"is\", use the adjective, not the adverb."
+  },
+  "distractors": [
+   "Easy to carry and quick to set up.",
+   "Very noisy and hard to ignore.",
+   "Cheap but of poor quality."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "deteriorate",
+  "word": "deteriorate",
+  "ipa": "/dɪˈtɪə.ri.ə.reɪt/",
+  "pos": "verb",
+  "definition": "To become worse in quality, condition or health.",
+  "examples": [
+   "The road has deteriorated badly since the rains started.",
+   "His health began to deteriorate last year."
+  ],
+  "collocations": [
+   "rapidly deteriorate",
+   "deteriorating condition",
+   "relations deteriorate"
+  ],
+  "family": [
+   "deterioration (n)"
+  ],
+  "pattern": {
+   "rule": "deteriorate = intransitive (no object)",
+   "example": "Her eyesight is deteriorating."
+  },
+  "forms": [
+   "deteriorate",
+   "deteriorates",
+   "deteriorated",
+   "deteriorating"
+  ],
+  "cloze": {
+   "sentence": "If we do not repair the roof, the building will ___ quickly.",
+   "answer": "deteriorate"
+  },
+  "formDrill": {
+   "sentence": "There has been a steady ___ in air quality.",
+   "base": "deteriorate",
+   "answer": "deterioration"
+  },
+  "fix": {
+   "wrong": "The rain deteriorated the road.",
+   "right": "The rain caused the road to deteriorate.",
+   "why": "\"Deteriorate\" has no object; use \"cause ... to deteriorate\"."
+  },
+  "distractors": [
+   "To slowly return to its original state.",
+   "To change from one form into another.",
+   "To lose value because of high prices."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "delay",
+  "word": "delay",
+  "ipa": "/dɪˈleɪ/",
+  "pos": "verb",
+  "definition": "To make something happen later than planned.",
+  "examples": [
+   "The airline delayed our flight by three hours.",
+   "Please don't delay payment any longer."
+  ],
+  "collocations": [
+   "delay a decision",
+   "delayed flight",
+   "without delay"
+  ],
+  "family": [
+   "delayed (adj)",
+   "delay (n)"
+  ],
+  "pattern": {
+   "rule": "delay + -ing / noun (not to + verb)",
+   "example": "They delayed signing the contract."
+  },
+  "forms": [
+   "delay",
+   "delays",
+   "delayed",
+   "delaying"
+  ],
+  "cloze": {
+   "sentence": "Heavy traffic ___ the bus, so I arrived late.",
+   "answer": "delayed"
+  },
+  "formDrill": {
+   "sentence": "A ___ train made her late for work.",
+   "base": "delay",
+   "answer": "delayed"
+  },
+  "fix": {
+   "wrong": "We delayed to start the meeting.",
+   "right": "We delayed starting the meeting.",
+   "why": "After \"delay\", use -ing, not to + verb."
+  },
+  "distractors": [
+   "To cancel completely and never reschedule.",
+   "To make something happen earlier than planned.",
+   "To pay for something in small parts."
+  ],
+  "tip": "Delay is also a noun: \"a two-hour delay\".",
+  "level": "everyday"
+ },
+ {
+  "id": "discrepancy",
+  "word": "discrepancy",
+  "ipa": "/dɪˈskrep.ən.si/",
+  "pos": "noun",
+  "definition": "A difference between two things that should be the same.",
+  "examples": [
+   "The accountant found a discrepancy between the invoice and the bank statement.",
+   "There is a big discrepancy in their stories."
+  ],
+  "collocations": [
+   "discrepancy between",
+   "a major discrepancy",
+   "explain a discrepancy"
+  ],
+  "family": [
+   "discrepancies (n)",
+   "discrepant (adj)"
+  ],
+  "pattern": {
+   "rule": "discrepancy + between + A and B / in + noun",
+   "example": "There is a discrepancy between the two reports."
+  },
+  "forms": [
+   "discrepancy",
+   "discrepancies"
+  ],
+  "cloze": {
+   "sentence": "We noticed a ___ in the stock count and checked the warehouse again.",
+   "answer": "discrepancy"
+  },
+  "formDrill": {
+   "sentence": "Several ___ appeared when we compared the two lists.",
+   "base": "discrepancy",
+   "answer": "discrepancies"
+  },
+  "fix": {
+   "wrong": "There is a discrepancy among the two reports.",
+   "right": "There is a discrepancy between the two reports.",
+   "why": "Use \"between\" for two items."
+  },
+  "distractors": [
+   "An agreement reached after a long argument.",
+   "A sudden loss of money in a business.",
+   "A small mistake in spelling."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "eclectic",
+  "word": "eclectic",
+  "ipa": "/ɪˈklek.tɪk/",
+  "pos": "adjective",
+  "definition": "Using or including many different styles, ideas or kinds of things.",
+  "examples": [
+   "She has an eclectic taste in music, from Afrobeats to jazz.",
+   "The restaurant has an eclectic menu with food from five countries."
+  ],
+  "collocations": [
+   "eclectic mix",
+   "eclectic taste",
+   "eclectic collection"
+  ],
+  "family": [
+   "eclectically (adv)",
+   "eclecticism (n)"
+  ],
+  "pattern": {
+   "rule": "eclectic + mix / taste / collection",
+   "example": "The shop sells an eclectic mix of books."
+  },
+  "forms": [
+   "eclectic"
+  ],
+  "cloze": {
+   "sentence": "His bookshelf is ___: cooking, physics, poetry and football.",
+   "answer": "eclectic"
+  },
+  "formDrill": {
+   "sentence": "The designer ___ combined African prints with modern shapes.",
+   "base": "eclectic",
+   "answer": "eclectically"
+  },
+  "fix": {
+   "wrong": "She has an eclectic taste of music.",
+   "right": "She has an eclectic taste in music.",
+   "why": "Use \"taste in\" something."
+  },
+  "distractors": [
+   "Limited to one narrow subject only.",
+   "Very expensive and rarely found.",
+   "Related to electricity or power."
+  ],
+  "tip": "Eclectic is usually positive; it means variety, not confusion.",
+  "level": "advanced"
+ },
+ {
+  "id": "enigmatic",
+  "word": "enigmatic",
+  "ipa": "/ˌen.ɪɡˈmæt.ɪk/",
+  "pos": "adjective",
+  "definition": "Mysterious and difficult to understand.",
+  "examples": [
+   "The manager gave an enigmatic smile and left the room.",
+   "His enigmatic message left us all confused."
+  ],
+  "collocations": [
+   "enigmatic smile",
+   "enigmatic figure",
+   "enigmatic message"
+  ],
+  "family": [
+   "enigma (n)",
+   "enigmatically (adv)"
+  ],
+  "pattern": {
+   "rule": "enigmatic + noun (smile, figure, message)",
+   "example": "She is an enigmatic leader."
+  },
+  "forms": [
+   "enigmatic"
+  ],
+  "cloze": {
+   "sentence": "The CEO's ___ reply gave no clue about the plan.",
+   "answer": "enigmatic"
+  },
+  "formDrill": {
+   "sentence": "He is a complete ___; nobody knows why he left.",
+   "base": "enigmatic",
+   "answer": "enigma"
+  },
+  "fix": {
+   "wrong": "His words were enigma.",
+   "right": "His words were enigmatic.",
+   "why": "\"Enigma\" is a noun; use the adjective \"enigmatic\"."
+  },
+  "distractors": [
+   "Very friendly and easy to talk to.",
+   "Loud and likely to cause anger.",
+   "Clearly stated and easy to follow."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "reluctant",
+  "word": "reluctant",
+  "ipa": "/rɪˈlʌk.tənt/",
+  "pos": "adjective",
+  "definition": "Not wanting to do something and slow to agree to it.",
+  "examples": [
+   "I was reluctant to lend him money again.",
+   "Many customers are reluctant to share their bank details online."
+  ],
+  "collocations": [
+   "reluctant to",
+   "reluctant participant",
+   "reluctantly agree"
+  ],
+  "family": [
+   "reluctance (n)",
+   "reluctantly (adv)"
+  ],
+  "pattern": {
+   "rule": "reluctant + to + verb",
+   "example": "She is reluctant to speak in public."
+  },
+  "forms": [
+   "reluctant"
+  ],
+  "cloze": {
+   "sentence": "The staff are ___ to work on weekends without extra pay.",
+   "answer": "reluctant"
+  },
+  "formDrill": {
+   "sentence": "After a long pause, he ___ agreed to join us.",
+   "base": "reluctant",
+   "answer": "reluctantly"
+  },
+  "fix": {
+   "wrong": "He is reluctant of going.",
+   "right": "He is reluctant to go.",
+   "why": "Use \"reluctant + to + verb\"."
+  },
+  "distractors": [
+   "Very eager and quick to start.",
+   "Unable to do something because of illness.",
+   "Not allowed by law to act."
+  ],
+  "tip": "Reluctant means unwilling to act; \"reticent\" means unwilling to speak.",
+  "level": "everyday"
+ },
+ {
+  "id": "ephemeral",
+  "word": "ephemeral",
+  "ipa": "/ɪˈfem.ər.əl/",
+  "pos": "adjective",
+  "definition": "Lasting for only a very short time.",
+  "examples": [
+   "Fame on social media is often ephemeral.",
+   "The beauty of the flowers was ephemeral; they died in two days."
+  ],
+  "collocations": [
+   "ephemeral nature",
+   "ephemeral pleasure",
+   "ephemeral fame"
+  ],
+  "family": [
+   "ephemerally (adv)",
+   "ephemerality (n)"
+  ],
+  "pattern": {
+   "rule": "ephemeral + noun (fame, joy, trend)",
+   "example": "Online trends are ephemeral."
+  },
+  "forms": [
+   "ephemeral"
+  ],
+  "cloze": {
+   "sentence": "Snapchat photos are ___; they disappear after a few seconds.",
+   "answer": "ephemeral"
+  },
+  "formDrill": {
+   "sentence": "The ___ of fashion trends makes them risky to invest in.",
+   "base": "ephemeral",
+   "answer": "ephemerality"
+  },
+  "fix": {
+   "wrong": "The ephemeral of fame surprised him.",
+   "right": "The ephemeral nature of fame surprised him.",
+   "why": "\"Ephemeral\" is an adjective and needs a noun after it."
+  },
+  "distractors": [
+   "Very old and still strong.",
+   "Related to ideas more than facts.",
+   "Easy to forget because it is boring."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "exacerbate",
+  "word": "exacerbate",
+  "ipa": "/ɪɡˈzæs.ə.beɪt/",
+  "pos": "verb",
+  "definition": "To make a bad situation, problem or feeling worse.",
+  "examples": [
+   "Shouting at the customer will only exacerbate the problem.",
+   "Poor drainage exacerbated the flooding."
+  ],
+  "collocations": [
+   "exacerbate the problem",
+   "exacerbate tensions",
+   "further exacerbate"
+  ],
+  "family": [
+   "exacerbation (n)"
+  ],
+  "pattern": {
+   "rule": "exacerbate + object (a problem)",
+   "example": "Stress can exacerbate headaches."
+  },
+  "forms": [
+   "exacerbate",
+   "exacerbates",
+   "exacerbated",
+   "exacerbating"
+  ],
+  "cloze": {
+   "sentence": "Skipping meals will ___ your stomach pain.",
+   "answer": "exacerbate"
+  },
+  "formDrill": {
+   "sentence": "The delay led to an ___ of the tension between the teams.",
+   "base": "exacerbate",
+   "answer": "exacerbation"
+  },
+  "fix": {
+   "wrong": "The traffic exacerbated me.",
+   "right": "The traffic exacerbated the delay.",
+   "why": "Exacerbate makes a problem worse; it is not used for annoying a person."
+  },
+  "distractors": [
+   "To reduce a problem slowly over time.",
+   "To make a situation seem less serious.",
+   "To explain a difficult idea clearly."
+  ],
+  "tip": "Do not confuse exacerbate (worsen) with exasperate (annoy).",
+  "level": "advanced"
+ },
+ {
+  "id": "exemplary",
+  "word": "exemplary",
+  "ipa": "/ɪɡˈzem.pləri/",
+  "pos": "adjective",
+  "definition": "So good that it can be used as an example for others to follow.",
+  "examples": [
+   "Her exemplary behavior earned her the prefect award.",
+   "The school has an exemplary record of student success."
+  ],
+  "collocations": [
+   "exemplary behavior",
+   "exemplary performance",
+   "exemplary record"
+  ],
+  "family": [
+   "exemplify (v)",
+   "example (n)"
+  ],
+  "pattern": {
+   "rule": "exemplary + noun (behavior, service, record)",
+   "example": "He showed exemplary courage."
+  },
+  "forms": [
+   "exemplary"
+  ],
+  "cloze": {
+   "sentence": "The hotel is known for its ___ customer service.",
+   "answer": "exemplary"
+  },
+  "formDrill": {
+   "sentence": "Her kindness ___ the spirit of our team.",
+   "base": "exemplary",
+   "answer": "exemplifies"
+  },
+  "fix": {
+   "wrong": "He has an exemplary behaviors.",
+   "right": "He has exemplary behavior.",
+   "why": "\"Behavior\" is uncountable and has no -s."
+  },
+  "distractors": [
+   "Only suitable as a warning to others.",
+   "Normal and not special in any way.",
+   "Needing a lot of explanation."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "opportunity",
+  "word": "opportunity",
+  "ipa": "/ˌɒp.əˈtjuː.nə.ti/",
+  "pos": "noun",
+  "definition": "A chance to do something good or useful.",
+  "examples": [
+   "This job is a great opportunity to learn new skills.",
+   "I had no opportunity to speak with the manager."
+  ],
+  "collocations": [
+   "golden opportunity",
+   "miss an opportunity",
+   "job opportunity"
+  ],
+  "family": [
+   "opportunities (n)",
+   "opportune (adj)",
+   "opportunist (n)"
+  ],
+  "pattern": {
+   "rule": "opportunity + to + verb / for + noun",
+   "example": "He has the opportunity to study abroad."
+  },
+  "forms": [
+   "opportunity",
+   "opportunities"
+  ],
+  "cloze": {
+   "sentence": "Don't miss this ___ to meet investors at the conference.",
+   "answer": "opportunity"
+  },
+  "formDrill": {
+   "sentence": "There are many career ___ in the tech sector.",
+   "base": "opportunity",
+   "answer": "opportunities"
+  },
+  "fix": {
+   "wrong": "I have an opportunity of traveling to Dubai.",
+   "right": "I have an opportunity to travel to Dubai.",
+   "why": "Use \"opportunity to + verb\"."
+  },
+  "distractors": [
+   "A problem that appears without warning.",
+   "A rule that limits what you can do.",
+   "A bad decision made in a hurry."
+  ],
+  "tip": "Opportunity is countable: \"an opportunity\", \"many opportunities\".",
+  "level": "everyday"
+ },
+ {
+  "id": "frugal",
+  "word": "frugal",
+  "ipa": "/ˈfruː.ɡəl/",
+  "pos": "adjective",
+  "definition": "Careful about spending money and not wasting things.",
+  "examples": [
+   "My mother is frugal and always compares prices at the market.",
+   "They lived a frugal life while saving for a house."
+  ],
+  "collocations": [
+   "frugal lifestyle",
+   "frugal with money",
+   "frugal meal"
+  ],
+  "family": [
+   "frugally (adv)",
+   "frugality (n)"
+  ],
+  "pattern": {
+   "rule": "frugal + with / about + noun",
+   "example": "She is frugal with her money."
+  },
+  "forms": [
+   "frugal"
+  ],
+  "cloze": {
+   "sentence": "Because he is ___, he cooks at home instead of eating out.",
+   "answer": "frugal"
+  },
+  "formDrill": {
+   "sentence": "They lived ___ so that they could pay off their loan.",
+   "base": "frugal",
+   "answer": "frugally"
+  },
+  "fix": {
+   "wrong": "He is frugal on money.",
+   "right": "He is frugal with money.",
+   "why": "Use \"frugal with\" money."
+  },
+  "distractors": [
+   "Willing to spend a lot on gifts.",
+   "Poor because of bad luck.",
+   "Quick to borrow from friends."
+  ],
+  "tip": "Frugal is positive; \"stingy\" or \"mean\" is negative.",
+  "level": "advanced"
+ },
+ {
+  "id": "immerse",
+  "word": "immerse",
+  "ipa": "/ɪˈmɜːs/",
+  "pos": "verb",
+  "definition": "To put yourself or something fully into a liquid or an activity.",
+  "examples": [
+   "She immersed herself in her studies before the exam.",
+   "Immerse the cloth in warm water for ten minutes."
+  ],
+  "collocations": [
+   "immerse yourself in",
+   "fully immersed",
+   "immerse in water"
+  ],
+  "family": [
+   "immersion (n)",
+   "immersive (adj)"
+  ],
+  "pattern": {
+   "rule": "immerse + (yourself) + in + noun",
+   "example": "He immersed himself in the local culture."
+  },
+  "forms": [
+   "immerse",
+   "immerses",
+   "immersed",
+   "immersing"
+  ],
+  "cloze": {
+   "sentence": "The best way to learn a language is to ___ yourself in it.",
+   "answer": "immerse"
+  },
+  "formDrill": {
+   "sentence": "A language ___ course puts you among native speakers all day.",
+   "base": "immerse",
+   "answer": "immersion"
+  },
+  "fix": {
+   "wrong": "She immersed herself on her work.",
+   "right": "She immersed herself in her work.",
+   "why": "Use \"immerse ... in\"."
+  },
+  "distractors": [
+   "To remove something from water quickly.",
+   "To avoid a topic on purpose.",
+   "To watch something from far away."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "impeccable",
+  "word": "impeccable",
+  "ipa": "/ɪmˈpek.ə.bəl/",
+  "pos": "adjective",
+  "definition": "Perfect, with no mistakes or faults.",
+  "examples": [
+   "Her English is impeccable after years in London.",
+   "The hotel had impeccable service from start to finish."
+  ],
+  "collocations": [
+   "impeccable taste",
+   "impeccable manners",
+   "impeccable record"
+  ],
+  "family": [
+   "impeccably (adv)"
+  ],
+  "pattern": {
+   "rule": "impeccable + noun (manners, timing, record)",
+   "example": "He has an impeccable work record."
+  },
+  "forms": [
+   "impeccable"
+  ],
+  "cloze": {
+   "sentence": "The waiter dressed in an ___ white uniform.",
+   "answer": "impeccable"
+  },
+  "formDrill": {
+   "sentence": "The bride was ___ dressed in a hand-made gown.",
+   "base": "impeccable",
+   "answer": "impeccably"
+  },
+  "fix": {
+   "wrong": "She speaks an impeccable English.",
+   "right": "She speaks impeccable English.",
+   "why": "Do not use \"an\" before uncountable \"English\"."
+  },
+  "distractors": [
+   "Impossible to describe in simple words.",
+   "Good enough but still improving.",
+   "Strict and very hard to please."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "approach",
+  "word": "approach",
+  "ipa": "/əˈprəʊtʃ/",
+  "pos": "verb",
+  "definition": "To come near to someone or something, or to start dealing with a problem.",
+  "examples": [
+   "The deadline is approaching, so we must hurry.",
+   "How should we approach the client about the late payment?"
+  ],
+  "collocations": [
+   "approach a problem",
+   "approach someone",
+   "approaching deadline"
+  ],
+  "family": [
+   "approach (n)",
+   "approachable (adj)"
+  ],
+  "pattern": {
+   "rule": "approach + object (no preposition)",
+   "example": "He approached the manager."
+  },
+  "forms": [
+   "approach",
+   "approaches",
+   "approached",
+   "approaching"
+  ],
+  "cloze": {
+   "sentence": "As the exam date ___, she studied late every night.",
+   "answer": "approaches"
+  },
+  "formDrill": {
+   "sentence": "Our manager is very ___; you can talk to her about anything.",
+   "base": "approach",
+   "answer": "approachable"
+  },
+  "fix": {
+   "wrong": "He approached to the gate.",
+   "right": "He approached the gate.",
+   "why": "\"Approach\" is transitive; no \"to\" after it."
+  },
+  "distractors": [
+   "To move away from a place quickly.",
+   "To agree to a plan without question.",
+   "To make a complaint in writing."
+  ],
+  "tip": "Approach is also a noun: \"a new approach to teaching\".",
+  "level": "everyday"
+ },
+ {
+  "id": "indispensable",
+  "word": "indispensable",
+  "ipa": "/ˌɪn.dɪˈspen.sə.bəl/",
+  "pos": "adjective",
+  "definition": "So important that you cannot do without it.",
+  "examples": [
+   "A smartphone has become indispensable for small traders.",
+   "She is indispensable to our team."
+  ],
+  "collocations": [
+   "indispensable tool",
+   "indispensable to",
+   "make yourself indispensable"
+  ],
+  "family": [
+   "indispensably (adv)"
+  ],
+  "pattern": {
+   "rule": "indispensable + to / for + noun",
+   "example": "Water is indispensable for life."
+  },
+  "forms": [
+   "indispensable"
+  ],
+  "cloze": {
+   "sentence": "A reliable generator is ___ for any business in areas with power cuts.",
+   "answer": "indispensable"
+  },
+  "fix": {
+   "wrong": "He is indispensable at our company.",
+   "right": "He is indispensable to our company.",
+   "why": "Use \"indispensable to\" or \"for\"."
+  },
+  "distractors": [
+   "Easy to replace with something else.",
+   "Too expensive for most people.",
+   "Allowed only in special cases."
+  ],
+  "tip": "Do not write \"undispensable\"; the word is indispensable.",
+  "level": "advanced"
+ },
+ {
+  "id": "inadvertent",
+  "word": "inadvertent",
+  "ipa": "/ˌɪn.ədˈvɜː.tənt/",
+  "pos": "adjective",
+  "definition": "Done by mistake, without meaning to.",
+  "examples": [
+   "The inadvertent deletion of the file cost us a day's work.",
+   "I made an inadvertent error in the total."
+  ],
+  "collocations": [
+   "inadvertent error",
+   "inadvertent mistake",
+   "inadvertently reveal"
+  ],
+  "family": [
+   "inadvertently (adv)",
+   "inadvertence (n)"
+  ],
+  "pattern": {
+   "rule": "inadvertent + noun (error, mistake, delay)",
+   "example": "It was an inadvertent insult."
+  },
+  "forms": [
+   "inadvertent"
+  ],
+  "cloze": {
+   "sentence": "The ___ release of customer data was a serious breach.",
+   "answer": "inadvertent"
+  },
+  "formDrill": {
+   "sentence": "She ___ sent the message to the whole company.",
+   "base": "inadvertent",
+   "answer": "inadvertently"
+  },
+  "fix": {
+   "wrong": "I inadvertent sent the wrong file.",
+   "right": "I inadvertently sent the wrong file.",
+   "why": "Use the adverb \"inadvertently\" before a verb."
+  },
+  "distractors": [
+   "Done on purpose to cause trouble.",
+   "Careful and fully planned in advance.",
+   "Slow because of too much thinking."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "juxtapose",
+  "word": "juxtapose",
+  "ipa": "/ˌdʒʌk.stəˈpəʊz/",
+  "pos": "verb",
+  "definition": "To place two very different things side by side to show the contrast.",
+  "examples": [
+   "The photo juxtaposes a luxury hotel with a poor village next to it.",
+   "The film juxtaposes humor and sadness."
+  ],
+  "collocations": [
+   "juxtapose A with B",
+   "sharply juxtaposed",
+   "juxtapose images"
+  ],
+  "family": [
+   "juxtaposition (n)"
+  ],
+  "pattern": {
+   "rule": "juxtapose + A + with / and + B",
+   "example": "The artist juxtaposed old and new styles."
+  },
+  "forms": [
+   "juxtapose",
+   "juxtaposes",
+   "juxtaposed",
+   "juxtaposing"
+  ],
+  "cloze": {
+   "sentence": "The exhibition ___ traditional masks with modern art.",
+   "answer": "juxtaposes"
+  },
+  "formDrill": {
+   "sentence": "The ___ of rich and poor neighborhoods was striking.",
+   "base": "juxtapose",
+   "answer": "juxtaposition"
+  },
+  "fix": {
+   "wrong": "The artist juxtaposed old to new.",
+   "right": "The artist juxtaposed old with new.",
+   "why": "Use \"juxtapose ... with\" or \"and\"."
+  },
+  "distractors": [
+   "To hide one thing behind another.",
+   "To combine two things so they match exactly.",
+   "To judge two things without any proof."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "explain",
+  "word": "explain",
+  "ipa": "/ɪkˈspleɪn/",
+  "pos": "verb",
+  "definition": "To make something clear by giving details or reasons.",
+  "examples": [
+   "Could you explain how this app works?",
+   "He explained why the shipment was late."
+  ],
+  "collocations": [
+   "explain why",
+   "explain to someone",
+   "explain clearly"
+  ],
+  "family": [
+   "explanation (n)",
+   "explanatory (adj)",
+   "unexplained (adj)"
+  ],
+  "pattern": {
+   "rule": "explain + something + to + person",
+   "example": "She explained the rules to the new staff."
+  },
+  "forms": [
+   "explain",
+   "explains",
+   "explained",
+   "explaining"
+  ],
+  "cloze": {
+   "sentence": "Please ___ the problem to me again; I did not understand.",
+   "answer": "explain"
+  },
+  "formDrill": {
+   "sentence": "He gave a clear ___ for the delay.",
+   "base": "explain",
+   "answer": "explanation"
+  },
+  "fix": {
+   "wrong": "She explained me the rules.",
+   "right": "She explained the rules to me.",
+   "why": "Do not put the person directly after \"explain\"; use \"to\"."
+  },
+  "distractors": [
+   "To ask someone to repeat their answer.",
+   "To keep a fact secret from others.",
+   "To argue against a plan."
+  ],
+  "tip": "Say \"explain it to me\", never \"explain me it\".",
+  "level": "everyday"
+ },
+ {
+  "id": "lethargic",
+  "word": "lethargic",
+  "ipa": "/ləˈθɑː.dʒɪk/",
+  "pos": "adjective",
+  "definition": "Very tired and without energy or interest.",
+  "examples": [
+   "I felt lethargic after the heavy lunch and could not focus.",
+   "The child seemed lethargic and had a fever."
+  ],
+  "collocations": [
+   "feel lethargic",
+   "lethargic and weak",
+   "lethargic response"
+  ],
+  "family": [
+   "lethargy (n)",
+   "lethargically (adv)"
+  ],
+  "pattern": {
+   "rule": "feel / seem + lethargic",
+   "example": "He seems lethargic today."
+  },
+  "forms": [
+   "lethargic"
+  ],
+  "cloze": {
+   "sentence": "After two nights without sleep, she felt ___ all day.",
+   "answer": "lethargic"
+  },
+  "formDrill": {
+   "sentence": "A strange ___ came over him after the long journey.",
+   "base": "lethargic",
+   "answer": "lethargy"
+  },
+  "fix": {
+   "wrong": "I am feeling lethargy today.",
+   "right": "I am feeling lethargic today.",
+   "why": "Use the adjective \"lethargic\" after \"feel\"."
+  },
+  "distractors": [
+   "Full of energy and excited to start.",
+   "Angry and quick to argue.",
+   "Careful and slow in making choices."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "nonchalant",
+  "word": "nonchalant",
+  "ipa": "/ˈnɒn.ʃəl.ənt/",
+  "pos": "adjective",
+  "definition": "Calm and relaxed, showing no worry or interest.",
+  "examples": [
+   "He was nonchalant about failing the test, which worried his parents.",
+   "She gave a nonchalant shrug and walked away."
+  ],
+  "collocations": [
+   "nonchalant attitude",
+   "nonchalant about",
+   "nonchalant shrug"
+  ],
+  "family": [
+   "nonchalantly (adv)",
+   "nonchalance (n)"
+  ],
+  "pattern": {
+   "rule": "nonchalant + about + noun",
+   "example": "He seems nonchalant about the deadline."
+  },
+  "forms": [
+   "nonchalant"
+  ],
+  "cloze": {
+   "sentence": "The pilot sounded ___ even though the weather was bad.",
+   "answer": "nonchalant"
+  },
+  "formDrill": {
+   "sentence": "He ___ strolled into the meeting an hour late.",
+   "base": "nonchalant",
+   "answer": "nonchalantly"
+  },
+  "fix": {
+   "wrong": "She is nonchalant for the results.",
+   "right": "She is nonchalant about the results.",
+   "why": "Use \"nonchalant about\"."
+  },
+  "distractors": [
+   "Nervous and checking everything twice.",
+   "Very polite and formal with strangers.",
+   "Angry and unwilling to listen."
+  ],
+  "tip": "Nonchalant can sound careless or rude if the situation is serious.",
+  "level": "advanced"
+ },
+ {
+  "id": "oblivious",
+  "word": "oblivious",
+  "ipa": "/əˈblɪv.i.əs/",
+  "pos": "adjective",
+  "definition": "Not aware of what is happening around you.",
+  "examples": [
+   "He was oblivious to the noise and kept sleeping.",
+   "She walked on, oblivious of the danger ahead."
+  ],
+  "collocations": [
+   "oblivious to",
+   "blissfully oblivious",
+   "seemingly oblivious"
+  ],
+  "family": [
+   "obliviously (adv)",
+   "oblivion (n)"
+  ],
+  "pattern": {
+   "rule": "oblivious + to / of + noun",
+   "example": "He was oblivious to the time."
+  },
+  "forms": [
+   "oblivious"
+  ],
+  "cloze": {
+   "sentence": "The driver was ___ to the warning signs on the road.",
+   "answer": "oblivious"
+  },
+  "formDrill": {
+   "sentence": "He ___ walked across the busy road while reading his phone.",
+   "base": "oblivious",
+   "answer": "obliviously"
+  },
+  "fix": {
+   "wrong": "He was oblivious about the problem.",
+   "right": "He was oblivious to the problem.",
+   "why": "Use \"oblivious to\" or \"of\"."
+  },
+  "distractors": [
+   "Fully aware of every small detail.",
+   "Quick to forget old problems.",
+   "Angry about what others say."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "purpose",
+  "word": "purpose",
+  "ipa": "/ˈpɜː.pəs/",
+  "pos": "noun",
+  "definition": "The reason why you do something or why something exists.",
+  "examples": [
+   "What is the purpose of this meeting?",
+   "She came to Abuja for a business purpose."
+  ],
+  "collocations": [
+   "serve a purpose",
+   "on purpose",
+   "sense of purpose"
+  ],
+  "family": [
+   "purposeful (adj)",
+   "purposely (adv)",
+   "purposeless (adj)"
+  ],
+  "pattern": {
+   "rule": "purpose of + noun / -ing; on purpose = deliberately",
+   "example": "The purpose of the test is to check your progress."
+  },
+  "forms": [
+   "purpose",
+   "purposes"
+  ],
+  "cloze": {
+   "sentence": "The ___ of this form is to collect your contact details.",
+   "answer": "purpose"
+  },
+  "formDrill": {
+   "sentence": "She walked ___ toward the stage with a clear goal.",
+   "base": "purpose",
+   "answer": "purposefully"
+  },
+  "fix": {
+   "wrong": "The purpose of this tool is for cutting wood.",
+   "right": "The purpose of this tool is to cut wood.",
+   "why": "Use \"purpose is to + verb\"."
+  },
+  "distractors": [
+   "A rule that must be followed.",
+   "A small gift given to a guest.",
+   "A mistake that cannot be fixed."
+  ],
+  "tip": "\"On purpose\" means deliberately; \"for the purpose of\" is formal.",
+  "level": "everyday"
+ },
+ {
+  "id": "paramount",
+  "word": "paramount",
+  "ipa": "/ˈpær.ə.maʊnt/",
+  "pos": "adjective",
+  "definition": "More important than anything else.",
+  "examples": [
+   "Safety is paramount on a building site.",
+   "Customer trust is of paramount importance to us."
+  ],
+  "collocations": [
+   "of paramount importance",
+   "paramount concern",
+   "remain paramount"
+  ],
+  "family": [
+   "paramountcy (n)"
+  ],
+  "pattern": {
+   "rule": "paramount + noun / of paramount importance",
+   "example": "Honesty is paramount in banking."
+  },
+  "forms": [
+   "paramount"
+  ],
+  "cloze": {
+   "sentence": "In a hospital, patient privacy is ___.",
+   "answer": "paramount"
+  },
+  "fix": {
+   "wrong": "It is more paramount than money.",
+   "right": "It is more important than money.",
+   "why": "\"Paramount\" already means the highest, so do not use \"more\"."
+  },
+  "distractors": [
+   "Slightly useful but not needed.",
+   "Strongly opposed by many people.",
+   "Likely to change soon."
+  ],
+  "tip": "Paramount is already extreme, so avoid \"very paramount\".",
+  "level": "advanced"
+ },
+ {
+  "id": "perseverance",
+  "word": "perseverance",
+  "ipa": "/ˌpɜː.sɪˈvɪə.rəns/",
+  "pos": "noun",
+  "definition": "Continuing to try hard to do something even when it is difficult.",
+  "examples": [
+   "Her perseverance paid off when she finally passed the bar exam.",
+   "Success in business takes perseverance."
+  ],
+  "collocations": [
+   "show perseverance",
+   "perseverance and determination",
+   "perseverance pays off"
+  ],
+  "family": [
+   "persevere (v)",
+   "persevering (adj)"
+  ],
+  "pattern": {
+   "rule": "perseverance = uncountable; persevere + in / with + noun",
+   "example": "He showed great perseverance."
+  },
+  "forms": [
+   "perseverance"
+  ],
+  "cloze": {
+   "sentence": "It took years of ___ to build the company from nothing.",
+   "answer": "perseverance"
+  },
+  "formDrill": {
+   "sentence": "If you ___ with your studies, you will succeed.",
+   "base": "perseverance",
+   "answer": "persevere"
+  },
+  "fix": {
+   "wrong": "He has a great perseverances.",
+   "right": "He has great perseverance.",
+   "why": "\"Perseverance\" is uncountable; no plural."
+  },
+  "distractors": [
+   "Fast progress without any effort.",
+   "A wish to give up and rest.",
+   "Skill gained from a short course."
+  ],
+  "tip": "Perseverance is the noun; the verb is \"persevere\".",
+  "level": "advanced"
+ },
+ {
+  "id": "poignant",
+  "word": "poignant",
+  "ipa": "/ˈpɔɪ.njənt/",
+  "pos": "adjective",
+  "definition": "Causing a strong feeling of sadness or sympathy.",
+  "examples": [
+   "The poignant letter from the soldier made everyone cry.",
+   "It was a poignant moment when she said goodbye to her old school."
+  ],
+  "collocations": [
+   "poignant reminder",
+   "poignant moment",
+   "deeply poignant"
+  ],
+  "family": [
+   "poignantly (adv)",
+   "poignancy (n)"
+  ],
+  "pattern": {
+   "rule": "poignant + noun (moment, memory, reminder)",
+   "example": "The film ends with a poignant scene."
+  },
+  "forms": [
+   "poignant"
+  ],
+  "cloze": {
+   "sentence": "The photograph of the empty house was a ___ reminder of the family's loss.",
+   "answer": "poignant"
+  },
+  "formDrill": {
+   "sentence": "The song ___ describes the pain of leaving home.",
+   "base": "poignant",
+   "answer": "poignantly"
+  },
+  "fix": {
+   "wrong": "He made a poignant remark that hurt her feelings.",
+   "right": "He made a pointed remark that hurt her feelings.",
+   "why": "'Poignant' means sad and touching; 'pointed' means sharp and critical."
+  },
+  "distractors": [
+   "Sharp and unfriendly in tone.",
+   "Funny and full of surprises.",
+   "Clear and easy to understand."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "patient",
+  "word": "patient",
+  "ipa": "/ˈpeɪ.ʃənt/",
+  "pos": "adjective",
+  "definition": "Able to wait calmly without getting angry or upset.",
+  "examples": [
+   "Please be patient; the network is slow today.",
+   "She is a patient teacher who never shouts."
+  ],
+  "collocations": [
+   "be patient with",
+   "patient teacher",
+   "patiently wait"
+  ],
+  "family": [
+   "patience (n)",
+   "patiently (adv)",
+   "impatient (adj)"
+  ],
+  "pattern": {
+   "rule": "patient + with + person; patient + for + wait",
+   "example": "Be patient with new employees."
+  },
+  "forms": [
+   "patient"
+  ],
+  "cloze": {
+   "sentence": "The bank clerk stayed ___ even though the customer was rude.",
+   "answer": "patient"
+  },
+  "formDrill": {
+   "sentence": "Thank you for your ___ while we fix the problem.",
+   "base": "patient",
+   "answer": "patience"
+  },
+  "fix": {
+   "wrong": "Be patient to your children.",
+   "right": "Be patient with your children.",
+   "why": "Use \"patient with\" a person."
+  },
+  "distractors": [
+   "Quick to react to any problem.",
+   "Ready to leave without waiting.",
+   "Easily excited by small things."
+  ],
+  "tip": "Patient is also a noun meaning a person getting medical care.",
+  "level": "everyday"
+ },
+ {
+  "id": "scrupulous",
+  "word": "scrupulous",
+  "ipa": "/ˈskruː.pjə.ləs/",
+  "pos": "adjective",
+  "definition": "Very careful to be honest and correct, or careful about every detail.",
+  "examples": [
+   "The company is scrupulous about paying taxes on time.",
+   "She kept scrupulous records of every naira spent."
+  ],
+  "collocations": [
+   "scrupulous honesty",
+   "scrupulously clean",
+   "scrupulous about"
+  ],
+  "family": [
+   "scrupulously (adv)",
+   "unscrupulous (adj)",
+   "scruple (n)"
+  ],
+  "pattern": {
+   "rule": "scrupulous + about + noun / -ing",
+   "example": "He is scrupulous about giving credit to others."
+  },
+  "forms": [
+   "scrupulous"
+  ],
+  "cloze": {
+   "sentence": "The auditor was ___ and checked every single figure.",
+   "answer": "scrupulous"
+  },
+  "formDrill": {
+   "sentence": "The kitchen was ___ clean when the inspector arrived.",
+   "base": "scrupulous",
+   "answer": "scrupulously"
+  },
+  "fix": {
+   "wrong": "He is scrupulous of the rules.",
+   "right": "He is scrupulous about the rules.",
+   "why": "Use \"scrupulous about\"."
+  },
+  "distractors": [
+   "Ready to break rules to win.",
+   "Slow and often late with work.",
+   "Easily afraid of strange places."
+  ],
+  "tip": "The opposite, \"unscrupulous\", means willing to cheat.",
+  "level": "advanced"
+ },
+ {
+  "id": "serendipity",
+  "word": "serendipity",
+  "ipa": "/ˌser.ənˈdɪp.ə.ti/",
+  "pos": "noun",
+  "definition": "Finding something good by chance when you were not looking for it.",
+  "examples": [
+   "It was pure serendipity that I met my business partner at a wedding.",
+   "Their meeting was serendipity, not a plan."
+  ],
+  "collocations": [
+   "pure serendipity",
+   "a moment of serendipity",
+   "by serendipity"
+  ],
+  "family": [
+   "serendipitous (adj)",
+   "serendipitously (adv)"
+  ],
+  "pattern": {
+   "rule": "serendipity = uncountable noun",
+   "example": "It was serendipity that we met."
+  },
+  "forms": [
+   "serendipity"
+  ],
+  "cloze": {
+   "sentence": "Finding my old friend in a Lagos market was pure ___.",
+   "answer": "serendipity"
+  },
+  "formDrill": {
+   "sentence": "It was a ___ meeting that changed her career.",
+   "base": "serendipity",
+   "answer": "serendipitous"
+  },
+  "fix": {
+   "wrong": "It was a serendipity.",
+   "right": "It was pure serendipity.",
+   "why": "\"Serendipity\" is usually uncountable, without \"a\"."
+  },
+  "distractors": [
+   "A plan made after careful research.",
+   "A feeling of calm after hard work.",
+   "Bad luck that spoils a good plan."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "stagnant",
+  "word": "stagnant",
+  "ipa": "/ˈstæɡ.nənt/",
+  "pos": "adjective",
+  "definition": "Not moving, growing or changing; often used for water or an economy.",
+  "examples": [
+   "Salaries have been stagnant for five years.",
+   "Mosquitoes breed in stagnant water."
+  ],
+  "collocations": [
+   "stagnant water",
+   "stagnant economy",
+   "remain stagnant"
+  ],
+  "family": [
+   "stagnate (v)",
+   "stagnation (n)"
+  ],
+  "pattern": {
+   "rule": "stagnant + noun / remain + stagnant",
+   "example": "The economy remained stagnant."
+  },
+  "forms": [
+   "stagnant"
+  ],
+  "cloze": {
+   "sentence": "Don't leave ___ water in buckets, because it attracts mosquitoes.",
+   "answer": "stagnant"
+  },
+  "formDrill": {
+   "sentence": "The company will ___ if it never tries new ideas.",
+   "base": "stagnant",
+   "answer": "stagnate"
+  },
+  "fix": {
+   "wrong": "Prices have been stagnate for years.",
+   "right": "Prices have been stagnant for years.",
+   "why": "After \"been\", use the adjective \"stagnant\"."
+  },
+  "distractors": [
+   "Moving fast and changing often.",
+   "Dirty because of heavy use.",
+   "Strong enough to stop problems."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "honest",
+  "word": "honest",
+  "ipa": "/ˈɒn.ɪst/",
+  "pos": "adjective",
+  "definition": "Telling the truth and not cheating or stealing.",
+  "examples": [
+   "To be honest, I did not like the food.",
+   "He is an honest trader who gives the right change."
+  ],
+  "collocations": [
+   "honest opinion",
+   "to be honest",
+   "honest mistake"
+  ],
+  "family": [
+   "honestly (adv)",
+   "honesty (n)",
+   "dishonest (adj)"
+  ],
+  "pattern": {
+   "rule": "honest + with + person / about + noun",
+   "example": "Be honest with me about the price."
+  },
+  "forms": [
+   "honest"
+  ],
+  "cloze": {
+   "sentence": "I want your ___ opinion of my business plan.",
+   "answer": "honest"
+  },
+  "formDrill": {
+   "sentence": "I did not see your message, ___.",
+   "base": "honest",
+   "answer": "honestly"
+  },
+  "fix": {
+   "wrong": "She is a very honesty person.",
+   "right": "She is a very honest person.",
+   "why": "\"Honesty\" is a noun; use the adjective \"honest\" before a noun."
+  },
+  "distractors": [
+   "Rich enough to help others.",
+   "Quick to give opinions.",
+   "Rude and direct with everyone."
+  ],
+  "tip": "The \"h\" in honest is silent: say /ˈɒn.ɪst/.",
+  "level": "everyday"
+ },
+ {
+  "id": "trajectory",
+  "word": "trajectory",
+  "ipa": "/trəˈdʒek.tər.i/",
+  "pos": "noun",
+  "definition": "The path something follows through the air, or the direction a situation develops over time.",
+  "examples": [
+   "The company's growth trajectory looks strong this year.",
+   "Her career trajectory changed after she moved abroad."
+  ],
+  "collocations": [
+   "career trajectory",
+   "upward trajectory",
+   "flight trajectory"
+  ],
+  "family": [
+   "trajectories (n)"
+  ],
+  "pattern": {
+   "rule": "trajectory + of + noun",
+   "example": "The trajectory of the rocket was tracked."
+  },
+  "forms": [
+   "trajectory",
+   "trajectories"
+  ],
+  "cloze": {
+   "sentence": "Sales are on an upward ___ after the new campaign.",
+   "answer": "trajectory"
+  },
+  "formDrill": {
+   "sentence": "The two companies have very different growth ___.",
+   "base": "trajectory",
+   "answer": "trajectories"
+  },
+  "fix": {
+   "wrong": "Her career trajectories is impressive.",
+   "right": "Her career trajectory is impressive.",
+   "why": "Singular subject needs singular \"trajectory\" with \"is\"."
+  },
+  "distractors": [
+   "A sudden stop in progress.",
+   "A plan written before starting work.",
+   "A list of results from a test."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "unanimous",
+  "word": "unanimous",
+  "ipa": "/juːˈnæn.ɪ.məs/",
+  "pos": "adjective",
+  "definition": "Agreed on by everyone, with no one disagreeing.",
+  "examples": [
+   "The committee made a unanimous decision to approve the budget.",
+   "The vote was unanimous."
+  ],
+  "collocations": [
+   "unanimous decision",
+   "unanimous vote",
+   "unanimous support"
+  ],
+  "family": [
+   "unanimously (adv)",
+   "unanimity (n)"
+  ],
+  "pattern": {
+   "rule": "unanimous + noun / be + unanimous in + -ing",
+   "example": "They were unanimous in choosing her."
+  },
+  "forms": [
+   "unanimous"
+  ],
+  "cloze": {
+   "sentence": "The jury reached a ___ verdict after two hours.",
+   "answer": "unanimous"
+  },
+  "formDrill": {
+   "sentence": "The board ___ voted to accept the offer.",
+   "base": "unanimous",
+   "answer": "unanimously"
+  },
+  "fix": {
+   "wrong": "The decision was unanimously.",
+   "right": "The decision was unanimous.",
+   "why": "After \"was\", use the adjective."
+  },
+  "distractors": [
+   "Decided by a small majority.",
+   "Not yet decided by anyone.",
+   "Chosen by one person alone."
+  ],
+  "tip": "Unanimous means everyone; \"majority\" means more than half.",
+  "level": "advanced"
+ },
+ {
+  "id": "unwavering",
+  "word": "unwavering",
+  "ipa": "/ʌnˈweɪ.vər.ɪŋ/",
+  "pos": "adjective",
+  "definition": "Strong and steady, not weakening or changing.",
+  "examples": [
+   "She has an unwavering belief in her team.",
+   "He gave us unwavering support through the hard months."
+  ],
+  "collocations": [
+   "unwavering support",
+   "unwavering commitment",
+   "unwavering faith"
+  ],
+  "family": [
+   "waver (v)",
+   "unwaveringly (adv)"
+  ],
+  "pattern": {
+   "rule": "unwavering + noun (support, faith, loyalty)",
+   "example": "Their loyalty is unwavering."
+  },
+  "forms": [
+   "unwavering"
+  ],
+  "cloze": {
+   "sentence": "The nurse showed ___ dedication throughout the long shift.",
+   "answer": "unwavering"
+  },
+  "formDrill": {
+   "sentence": "The minister ___ stood by her decision.",
+   "base": "unwavering",
+   "answer": "unwaveringly"
+  },
+  "fix": {
+   "wrong": "He gave us unwaivering support.",
+   "right": "He gave us unwavering support.",
+   "why": "Spell it unwavering, matching 'waver', with no 'i'."
+  },
+  "distractors": [
+   "Changing often depending on the mood.",
+   "Silent and unwilling to share an opinion.",
+   "Weak because of too little practice."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "vindicate",
+  "word": "vindicate",
+  "ipa": "/ˈvɪn.dɪ.keɪt/",
+  "pos": "verb",
+  "definition": "To prove that someone or something was right or not guilty after doubt.",
+  "examples": [
+   "The final report vindicated the driver; the brakes had failed.",
+   "She felt vindicated when her idea made money."
+  ],
+  "collocations": [
+   "feel vindicated",
+   "be vindicated",
+   "vindicate a decision"
+  ],
+  "family": [
+   "vindication (n)",
+   "vindicated (adj)"
+  ],
+  "pattern": {
+   "rule": "vindicate + person / decision; be vindicated",
+   "example": "The evidence vindicated him."
+  },
+  "forms": [
+   "vindicate",
+   "vindicates",
+   "vindicated",
+   "vindicating"
+  ],
+  "cloze": {
+   "sentence": "The camera footage will ___ the shopkeeper, who was accused of theft.",
+   "answer": "vindicate"
+  },
+  "formDrill": {
+   "sentence": "The result was a complete ___ of her decision.",
+   "base": "vindicate",
+   "answer": "vindication"
+  },
+  "fix": {
+   "wrong": "The test vindicated that he was right.",
+   "right": "The test proved that he was right.",
+   "why": "\"Vindicate\" takes a person or decision, not a \"that\" clause."
+  },
+  "distractors": [
+   "To blame someone for an old mistake.",
+   "To punish a person publicly.",
+   "To forgive someone who has done wrong."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "whimsical",
+  "word": "whimsical",
+  "ipa": "/ˈwɪm.zɪ.kəl/",
+  "pos": "adjective",
+  "definition": "Playful and unusual in a way that is not serious or practical.",
+  "examples": [
+   "The cafe has a whimsical design with upside-down chairs.",
+   "He bought a whimsical hat shaped like a fish."
+  ],
+  "collocations": [
+   "whimsical sense of humor",
+   "whimsical idea",
+   "whimsical design"
+  ],
+  "family": [
+   "whimsy (n)",
+   "whimsically (adv)"
+  ],
+  "pattern": {
+   "rule": "whimsical + noun (idea, design, humor)",
+   "example": "She has a whimsical imagination."
+  },
+  "forms": [
+   "whimsical"
+  ],
+  "cloze": {
+   "sentence": "The children's book is full of ___ drawings of talking animals.",
+   "answer": "whimsical"
+  },
+  "formDrill": {
+   "sentence": "She ___ painted a tiny door on the wall.",
+   "base": "whimsical",
+   "answer": "whimsically"
+  },
+  "fix": {
+   "wrong": "He has a whimsy sense of humor.",
+   "right": "He has a whimsical sense of humor.",
+   "why": "The adjective is \"whimsical\", not \"whimsy\"."
+  },
+  "distractors": [
+   "Very serious and strict about rules.",
+   "Dangerous and likely to cause harm.",
+   "Plain and designed for practical use."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "zealous",
+  "word": "zealous",
+  "ipa": "/ˈzel.əs/",
+  "pos": "adjective",
+  "definition": "Showing great energy and strong feeling for a cause or goal.",
+  "examples": [
+   "He is a zealous supporter of the local football club.",
+   "The zealous young lawyer worked late every night."
+  ],
+  "collocations": [
+   "zealous supporter",
+   "zealous defender",
+   "overly zealous"
+  ],
+  "family": [
+   "zeal (n)",
+   "zealously (adv)",
+   "zealot (n)"
+  ],
+  "pattern": {
+   "rule": "zealous + in / about + noun / -ing",
+   "example": "She is zealous in protecting her clients."
+  },
+  "forms": [
+   "zealous"
+  ],
+  "cloze": {
+   "sentence": "The ___ volunteers cleaned the whole beach in one day.",
+   "answer": "zealous"
+  },
+  "formDrill": {
+   "sentence": "She worked with great ___ to finish the project.",
+   "base": "zealous",
+   "answer": "zeal"
+  },
+  "fix": {
+   "wrong": "He is zealous of his job.",
+   "right": "He is zealous about his job.",
+   "why": "Use \"zealous about\" or \"in\", not \"of\"."
+  },
+  "distractors": [
+   "Slow and uninterested in new ideas.",
+   "Quiet and unwilling to join groups.",
+   "Very careful about spending money."
+  ],
+  "tip": "Zealous can sound negative when it means \"too extreme\".",
+  "level": "advanced"
+ },
+ {
+  "id": "ambivalent",
+  "word": "ambivalent",
+  "ipa": "/æmˈbɪv.ə.lənt/",
+  "pos": "adjective",
+  "definition": "Having two opposite feelings about something at the same time.",
+  "examples": [
+   "I feel ambivalent about moving to Canada; I want the job but will miss home.",
+   "She was ambivalent about the new boss."
+  ],
+  "collocations": [
+   "ambivalent about",
+   "feel ambivalent",
+   "ambivalent attitude"
+  ],
+  "family": [
+   "ambivalence (n)",
+   "ambivalently (adv)"
+  ],
+  "pattern": {
+   "rule": "ambivalent + about / towards + noun",
+   "example": "He is ambivalent about marriage."
+  },
+  "forms": [
+   "ambivalent"
+  ],
+  "cloze": {
+   "sentence": "Voters seem ___ about the new tax and cannot decide.",
+   "answer": "ambivalent"
+  },
+  "formDrill": {
+   "sentence": "His ___ about leaving his job showed in his silence.",
+   "base": "ambivalent",
+   "answer": "ambivalence"
+  },
+  "fix": {
+   "wrong": "I am ambivalent with the offer.",
+   "right": "I am ambivalent about the offer.",
+   "why": "Use \"ambivalent about\"."
+  },
+  "distractors": [
+   "Strongly in favor of a plan.",
+   "Not interested in any result.",
+   "Angry and unwilling to talk."
+  ],
+  "tip": "Ambivalent is not the same as indifferent; ambivalent people feel both ways.",
+  "level": "advanced"
+ },
+ {
+  "id": "galvanize",
+  "word": "galvanize",
+  "ipa": "/ˈɡæl.və.naɪz/",
+  "pos": "verb",
+  "definition": "To shock or excite people into taking action.",
+  "examples": [
+   "The news of the fraud galvanized the staff into action.",
+   "The coach's speech galvanized the team before the final."
+  ],
+  "collocations": [
+   "galvanize into action",
+   "galvanize support",
+   "galvanize the community"
+  ],
+  "family": [
+   "galvanization (n)",
+   "galvanized (adj)"
+  ],
+  "pattern": {
+   "rule": "galvanize + someone + into + noun / -ing",
+   "example": "The crisis galvanized them into working together."
+  },
+  "forms": [
+   "galvanize",
+   "galvanizes",
+   "galvanized",
+   "galvanizing",
+   "galvanise",
+   "galvanises",
+   "galvanised",
+   "galvanising"
+  ],
+  "cloze": {
+   "sentence": "A powerful speech can ___ people into taking action.",
+   "answer": "galvanize"
+  },
+  "formDrill": {
+   "sentence": "The ___ of support after the flood was impressive.",
+   "base": "galvanize",
+   "answer": "galvanization"
+  },
+  "fix": {
+   "wrong": "The news galvanized the staff for action.",
+   "right": "The news galvanized the staff into action.",
+   "why": "Use 'galvanize ... into action', not 'for action'."
+  },
+  "distractors": [
+   "To cover metal with a layer of paint.",
+   "To make a group feel tired and discouraged.",
+   "To slow down a project on purpose."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "idiosyncratic",
+  "word": "idiosyncratic",
+  "ipa": "/ˌɪd.i.əʊ.sɪŋˈkræt.ɪk/",
+  "pos": "adjective",
+  "definition": "Peculiar to one person; unusual in a personal way.",
+  "examples": [
+   "His idiosyncratic way of filing papers confuses everyone else.",
+   "She has an idiosyncratic style of dressing."
+  ],
+  "collocations": [
+   "idiosyncratic style",
+   "idiosyncratic behavior",
+   "idiosyncratic approach"
+  ],
+  "family": [
+   "idiosyncrasy (n)",
+   "idiosyncratically (adv)"
+  ],
+  "pattern": {
+   "rule": "idiosyncratic + noun (style, habit, approach)",
+   "example": "He has an idiosyncratic teaching method."
+  },
+  "forms": [
+   "idiosyncratic"
+  ],
+  "cloze": {
+   "sentence": "The chef's ___ recipes use ingredients nobody else combines.",
+   "answer": "idiosyncratic"
+  },
+  "formDrill": {
+   "sentence": "Everyone has a few ___, like eating cereal at night.",
+   "base": "idiosyncratic",
+   "answer": "idiosyncrasies"
+  },
+  "fix": {
+   "wrong": "He has an idiosyncratic habit of talk.",
+   "right": "He has an idiosyncratic way of talking.",
+   "why": "Use \"way of + -ing\"."
+  },
+  "distractors": [
+   "Normal and the same as everyone's.",
+   "Related to the study of the mind.",
+   "Based on strict rules and routines."
+  ],
+  "level": "advanced"
+ },
+ {
+  "id": "inquisitive",
+  "word": "inquisitive",
+  "ipa": "/ɪnˈkwɪz.ə.tɪv/",
+  "pos": "adjective",
+  "definition": "Interested in learning and asking many questions.",
+  "examples": [
+   "My inquisitive daughter asks \"why\" about everything.",
+   "An inquisitive mind is useful in research."
+  ],
+  "collocations": [
+   "inquisitive mind",
+   "inquisitive nature",
+   "inquisitive child"
+  ],
+  "family": [
+   "inquisitively (adv)",
+   "inquisitiveness (n)"
+  ],
+  "pattern": {
+   "rule": "inquisitive + about + noun",
+   "example": "She is inquisitive about other cultures."
+  },
+  "forms": [
+   "inquisitive"
+  ],
+  "cloze": {
+   "sentence": "Good reporters are ___ and always ask follow-up questions.",
+   "answer": "inquisitive"
+  },
+  "formDrill": {
+   "sentence": "The cat sniffed the box ___.",
+   "base": "inquisitive",
+   "answer": "inquisitively"
+  },
+  "fix": {
+   "wrong": "He is inquisitive of new things.",
+   "right": "He is inquisitive about new things.",
+   "why": "Use \"inquisitive about\"."
+  },
+  "distractors": [
+   "Unwilling to speak to strangers.",
+   "Rude and quick to blame others.",
+   "Bored by long explanations."
+  ],
+  "tip": "Inquisitive can sound rude if it means asking about private matters.",
+  "level": "advanced"
+ }
+]

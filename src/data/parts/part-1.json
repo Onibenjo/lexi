@@ -1,0 +1,2611 @@
+[
+ {
+  "id": "afford",
+  "word": "afford",
+  "ipa": "/əˈfɔːd/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To have enough money or time to pay for or do something.",
+  "examples": [
+   "I can't afford a new phone this month.",
+   "Can we afford to hire another person before December?"
+  ],
+  "collocations": [
+   "can't afford",
+   "afford a car",
+   "afford the rent"
+  ],
+  "family": [
+   "affordable (adj)",
+   "affordability (n)"
+  ],
+  "pattern": {
+   "rule": "afford + noun / to + verb (usually with can/could)",
+   "example": "We can't afford to wait."
+  },
+  "forms": [
+   "afford",
+   "affords",
+   "afforded",
+   "affording"
+  ],
+  "cloze": {
+   "sentence": "Rent in Lagos is so high that many students can't ___ their own flat.",
+   "answer": "afford"
+  },
+  "formDrill": {
+   "sentence": "Is the new laptop ___ for most students?",
+   "base": "afford",
+   "answer": "affordable"
+  },
+  "fix": {
+   "wrong": "I can't afford buying a car.",
+   "right": "I can't afford to buy a car.",
+   "why": "After 'afford' use to + verb, not -ing."
+  },
+  "distractors": [
+   "To refuse to pay for something.",
+   "To borrow money from a bank.",
+   "To be happy with the price of something."
+  ],
+  "tip": "Afford is almost always used with can, could or be able to, not in simple tenses like 'I afford it'."
+ },
+ {
+  "id": "feasible",
+  "word": "feasible",
+  "ipa": "/ˈfiː.zə.bəl/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Possible to do and likely to work in practice.",
+  "examples": [
+   "The engineers say the plan is feasible if we get more funding.",
+   "It isn't feasible to finish the whole project in one week."
+  ],
+  "collocations": [
+   "feasible plan",
+   "technically feasible",
+   "financially feasible"
+  ],
+  "family": [
+   "feasibility (n)",
+   "feasibly (adv)"
+  ],
+  "pattern": {
+   "rule": "feasible + noun / it is feasible + to + verb",
+   "example": "It is feasible to deliver by Friday."
+  },
+  "forms": [
+   "feasible"
+  ],
+  "cloze": {
+   "sentence": "The plan looked good on paper, but was it really ___ with only half the budget?",
+   "answer": "feasible"
+  },
+  "formDrill": {
+   "sentence": "We checked the ___ of the idea before spending any money.",
+   "base": "feasible",
+   "answer": "feasibility"
+  },
+  "fix": {
+   "wrong": "The project is feasibly, so we can start.",
+   "right": "The project is feasible, so we can start.",
+   "why": "After 'is', use the adjective 'feasible', not the adverb."
+  },
+  "distractors": [
+   "Very expensive and difficult to buy.",
+   "Easy to understand and explain.",
+   "Likely to cause problems later."
+  ],
+  "tip": "Feasible is about whether something can be done; 'possible' is more general and less formal."
+ },
+ {
+  "id": "pragmatic",
+  "word": "pragmatic",
+  "ipa": "/præɡˈmæt.ɪk/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Dealing with problems in a sensible, practical way instead of following ideas or theories.",
+  "examples": [
+   "Our manager is pragmatic: she picks the solution that works fastest.",
+   "Be pragmatic and accept the smaller offer for now."
+  ],
+  "collocations": [
+   "pragmatic approach",
+   "pragmatic solution",
+   "pragmatic decision"
+  ],
+  "family": [
+   "pragmatically (adv)",
+   "pragmatism (n)"
+  ],
+  "pattern": {
+   "rule": "pragmatic + noun / pragmatic about + noun",
+   "example": "She is pragmatic about money."
+  },
+  "forms": [
+   "pragmatic"
+  ],
+  "cloze": {
+   "sentence": "Instead of arguing about the perfect plan, the CEO took a ___ approach and fixed the problem.",
+   "answer": "pragmatic"
+  },
+  "formDrill": {
+   "sentence": "She solves problems ___, without fuss or theory.",
+   "base": "pragmatic",
+   "answer": "pragmatically"
+  },
+  "fix": {
+   "wrong": "He is pragmatic in money, so he saves every month.",
+   "right": "He is pragmatic about money, so he saves every month.",
+   "why": "Use 'pragmatic about' for the subject you are practical on."
+  },
+  "distractors": [
+   "Always following strict rules and tradition.",
+   "Very hopeful about the future.",
+   "Interested only in art and beauty."
+  ],
+  "tip": "Pragmatic is usually positive; it means practical, not 'ruthless'."
+ },
+ {
+  "id": "ambiguous",
+  "word": "ambiguous",
+  "ipa": "/æmˈbɪɡ.ju.əs/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Having more than one possible meaning, so it is not clear what is intended.",
+  "examples": [
+   "His text was ambiguous, so I didn't know if he was coming.",
+   "The contract has an ambiguous clause about payment dates."
+  ],
+  "collocations": [
+   "ambiguous statement",
+   "ambiguous answer",
+   "deliberately ambiguous"
+  ],
+  "family": [
+   "ambiguity (n)",
+   "ambiguously (adv)"
+  ],
+  "pattern": {
+   "rule": "ambiguous + noun / it is ambiguous whether...",
+   "example": "The instructions are ambiguous."
+  },
+  "forms": [
+   "ambiguous"
+  ],
+  "cloze": {
+   "sentence": "The email was so ___ that three people understood it three different ways.",
+   "answer": "ambiguous"
+  },
+  "formDrill": {
+   "sentence": "There is a lot of ___ in the job description, so ask questions.",
+   "base": "ambiguous",
+   "answer": "ambiguity"
+  },
+  "fix": {
+   "wrong": "The message was ambiguity, so I asked him to explain.",
+   "right": "The message was ambiguous, so I asked him to explain.",
+   "why": "Use the adjective 'ambiguous' to describe a message."
+  },
+  "distractors": [
+   "Clear and easy to follow.",
+   "Rude and offensive to others.",
+   "Very short and to the point."
+  ],
+  "tip": "Don't confuse ambiguous (unclear meaning) with ambitious (wanting success)."
+ },
+ {
+  "id": "coherent",
+  "word": "coherent",
+  "ipa": "/kəʊˈhɪə.rənt/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Logical and well organized, so that the parts fit together and are easy to follow.",
+  "examples": [
+   "She gave a coherent explanation of why sales dropped.",
+   "His essay wasn't coherent; the ideas jumped around."
+  ],
+  "collocations": [
+   "coherent argument",
+   "coherent strategy",
+   "clear and coherent"
+  ],
+  "family": [
+   "coherence (n)",
+   "coherently (adv)",
+   "incoherent (adj)"
+  ],
+  "pattern": {
+   "rule": "coherent + noun (argument, plan, story)",
+   "example": "They need a coherent plan."
+  },
+  "forms": [
+   "coherent"
+  ],
+  "cloze": {
+   "sentence": "After the accident he was too shocked to give a ___ account of what happened.",
+   "answer": "coherent"
+  },
+  "formDrill": {
+   "sentence": "Try to explain your ideas ___ so the audience can follow them.",
+   "base": "coherent",
+   "answer": "coherently"
+  },
+  "fix": {
+   "wrong": "Your essay is not coherence; the paragraphs don't connect.",
+   "right": "Your essay is not coherent; the paragraphs don't connect.",
+   "why": "After 'is' use the adjective 'coherent', not the noun."
+  },
+  "distractors": [
+   "Very strong and hard to break.",
+   "Willing to work together in a team.",
+   "Fast and full of energy."
+  ],
+  "tip": "The opposite is 'incoherent', often used for speech that makes no sense."
+ },
+ {
+  "id": "resilient",
+  "word": "resilient",
+  "ipa": "/rɪˈzɪl.i.ənt/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Able to recover quickly after difficulty, loss or change.",
+  "examples": [
+   "Small businesses in the city proved resilient during the fuel shortage.",
+   "Children are often more resilient than parents expect."
+  ],
+  "collocations": [
+   "resilient economy",
+   "remarkably resilient",
+   "resilient to stress"
+  ],
+  "family": [
+   "resilience (n)",
+   "resiliently (adv)"
+  ],
+  "pattern": {
+   "rule": "resilient + to + noun",
+   "example": "The crop is resilient to drought."
+  },
+  "forms": [
+   "resilient"
+  ],
+  "cloze": {
+   "sentence": "After losing his job twice, he stayed ___ and started his own company.",
+   "answer": "resilient"
+  },
+  "formDrill": {
+   "sentence": "Her ___ helped her return to work quickly after the illness.",
+   "base": "resilient",
+   "answer": "resilience"
+  },
+  "fix": {
+   "wrong": "She is very resilient at stress.",
+   "right": "She is very resilient to stress.",
+   "why": "Use 'resilient to' for the thing someone survives."
+  },
+  "distractors": [
+   "Easily broken by pressure.",
+   "Strict and unwilling to change.",
+   "Calm only when things are easy."
+  ],
+  "tip": "Resilient can describe people, businesses, materials and economies."
+ },
+ {
+  "id": "candid",
+  "word": "candid",
+  "ipa": "/ˈkæn.dɪd/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Honest and direct in what you say, even when the truth is uncomfortable.",
+  "examples": [
+   "Thanks for being candid about the budget problems.",
+   "In a candid interview, the footballer admitted he was afraid."
+  ],
+  "collocations": [
+   "candid opinion",
+   "candid conversation",
+   "candid about"
+  ],
+  "family": [
+   "candidly (adv)",
+   "candor (n)"
+  ],
+  "pattern": {
+   "rule": "candid + about + noun",
+   "example": "He was candid about his mistakes."
+  },
+  "forms": [
+   "candid"
+  ],
+  "cloze": {
+   "sentence": "Let me be ___ with you: the presentation needs a lot more work.",
+   "answer": "candid"
+  },
+  "formDrill": {
+   "sentence": "To speak ___, I don't think the plan will work.",
+   "base": "candid",
+   "answer": "candidly"
+  },
+  "fix": {
+   "wrong": "He was candid on his failures.",
+   "right": "He was candid about his failures.",
+   "why": "Use 'candid about' a topic."
+  },
+  "distractors": [
+   "Polite but not truthful.",
+   "Quiet and shy around others.",
+   "Dressed in a smart, formal way."
+  ],
+  "tip": "Don't confuse candid with candidate (a person applying for a job)."
+ },
+ {
+  "id": "appreciate",
+  "word": "appreciate",
+  "ipa": "/əˈpriː.ʃi.eɪt/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To be grateful for something, or to understand how important or difficult it is.",
+  "examples": [
+   "I really appreciate you picking me up from the airport.",
+   "Customers appreciated the quick delivery."
+  ],
+  "collocations": [
+   "really appreciate",
+   "appreciate your help",
+   "fully appreciate"
+  ],
+  "family": [
+   "appreciation (n)",
+   "appreciative (adj)",
+   "appreciably (adv)"
+  ],
+  "pattern": {
+   "rule": "appreciate + noun / -ing (the thing, not the person)",
+   "example": "I appreciate your help."
+  },
+  "forms": [
+   "appreciate",
+   "appreciates",
+   "appreciated",
+   "appreciating"
+  ],
+  "cloze": {
+   "sentence": "I would ___ it if you could send the invoice by Monday.",
+   "answer": "appreciate"
+  },
+  "formDrill": {
+   "sentence": "The staff wrote a note of ___ to the manager.",
+   "base": "appreciate",
+   "answer": "appreciation"
+  },
+  "fix": {
+   "wrong": "I am very appreciate your help.",
+   "right": "I really appreciate your help.",
+   "why": "'Appreciate' is a verb, so it needs no 'am/is' before it."
+  },
+  "distractors": [
+   "To make something look more attractive.",
+   "To increase the price of something quickly.",
+   "To feel sorry about a mistake."
+  ],
+  "tip": "We appreciate things or actions, not people: say 'I appreciate your help', not 'I appreciate you' for help."
+ },
+ {
+  "id": "diligent",
+  "word": "diligent",
+  "ipa": "/ˈdɪl.ɪ.dʒənt/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Working carefully and steadily, putting in a lot of effort.",
+  "examples": [
+   "She is a diligent student who never misses homework.",
+   "Thanks to his diligent work, the audit finished early."
+  ],
+  "collocations": [
+   "diligent worker",
+   "diligent student",
+   "diligent effort"
+  ],
+  "family": [
+   "diligence (n)",
+   "diligently (adv)"
+  ],
+  "pattern": {
+   "rule": "diligent + in + -ing / diligent + noun",
+   "example": "He is diligent in checking every figure."
+  },
+  "forms": [
+   "diligent"
+  ],
+  "cloze": {
+   "sentence": "The ___ intern double-checked every spreadsheet before sending it.",
+   "answer": "diligent"
+  },
+  "formDrill": {
+   "sentence": "She studied ___ for months before the exam.",
+   "base": "diligent",
+   "answer": "diligently"
+  },
+  "fix": {
+   "wrong": "He is very diligent on his work.",
+   "right": "He is very diligent in his work.",
+   "why": "Use 'diligent in' (or just 'diligent') with work."
+  },
+  "distractors": [
+   "Often late and disorganized.",
+   "Clever but lazy.",
+   "Friendly with everyone."
+  ],
+  "tip": "Diligent describes steady hard work, not natural intelligence."
+ },
+ {
+  "id": "inevitable",
+  "word": "inevitable",
+  "ipa": "/ɪnˈev.ɪ.tə.bəl/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Certain to happen and impossible to avoid.",
+  "examples": [
+   "With so many cars, traffic jams are inevitable in Lagos.",
+   "It was inevitable that prices would rise after the fuel increase."
+  ],
+  "collocations": [
+   "inevitable consequence",
+   "seem inevitable",
+   "almost inevitable"
+  ],
+  "family": [
+   "inevitably (adv)",
+   "inevitability (n)"
+  ],
+  "pattern": {
+   "rule": "it is inevitable + that clause / inevitable + noun",
+   "example": "It is inevitable that mistakes will happen."
+  },
+  "forms": [
+   "inevitable"
+  ],
+  "cloze": {
+   "sentence": "Delays were ___ once the strike began.",
+   "answer": "inevitable"
+  },
+  "formDrill": {
+   "sentence": "When a company grows quickly, mistakes will ___ happen.",
+   "base": "inevitable",
+   "answer": "inevitably"
+  },
+  "fix": {
+   "wrong": "It is inevitable to fail sometimes.",
+   "right": "Failing sometimes is inevitable.",
+   "why": "'Inevitable' does not take a to-infinitive; use a that clause or a different structure."
+  },
+  "distractors": [
+   "Possible but very unlikely.",
+   "Easy to prevent with planning.",
+   "Happening again and again."
+  ],
+  "tip": "Inevitable is stronger than 'likely': it means nothing can stop it."
+ },
+ {
+  "id": "plausible",
+  "word": "plausible",
+  "ipa": "/ˈplɔː.zə.bəl/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Seeming reasonable and likely to be true.",
+  "examples": [
+   "Her excuse for being late sounded plausible.",
+   "Police said it was a plausible explanation for the missing money."
+  ],
+  "collocations": [
+   "plausible explanation",
+   "plausible excuse",
+   "highly plausible"
+  ],
+  "family": [
+   "plausibly (adv)",
+   "plausibility (n)",
+   "implausible (adj)"
+  ],
+  "pattern": {
+   "rule": "plausible + noun / it is plausible that...",
+   "example": "It is plausible that he forgot."
+  },
+  "forms": [
+   "plausible"
+  ],
+  "cloze": {
+   "sentence": "The story seemed ___ until we checked the dates.",
+   "answer": "plausible"
+  },
+  "formDrill": {
+   "sentence": "The excuse was so ___ that nobody believed it.",
+   "base": "plausible",
+   "answer": "implausible"
+  },
+  "fix": {
+   "wrong": "It is plausible to believe that he is right.",
+   "right": "It is plausible that he is right.",
+   "why": "Plausible is followed by a that clause rather than to + verb."
+  },
+  "distractors": [
+   "Proven to be completely true.",
+   "Easy to forget quickly.",
+   "Said in a loud and angry way."
+  ],
+  "tip": "Plausible means it seems true, not that it is true."
+ },
+ {
+  "id": "convince",
+  "word": "convince",
+  "ipa": "/kənˈvɪns/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To make someone believe something is true or agree to do something.",
+  "examples": [
+   "I couldn't convince my father to lend me the car.",
+   "The data convinced the board that we should expand."
+  ],
+  "collocations": [
+   "convince someone to",
+   "firmly convinced",
+   "convince customers"
+  ],
+  "family": [
+   "convincing (adj)",
+   "convinced (adj)",
+   "conviction (n)"
+  ],
+  "pattern": {
+   "rule": "convince + person + to + verb / that clause / of + noun",
+   "example": "She convinced me to apply."
+  },
+  "forms": [
+   "convince",
+   "convinces",
+   "convinced",
+   "convincing"
+  ],
+  "cloze": {
+   "sentence": "It took two hours to ___ the landlord to lower the rent.",
+   "answer": "convince"
+  },
+  "formDrill": {
+   "sentence": "Her argument was very ___, so we agreed.",
+   "base": "convince",
+   "answer": "convincing"
+  },
+  "fix": {
+   "wrong": "She convinced me for join the gym.",
+   "right": "She convinced me to join the gym.",
+   "why": "Use convince + person + to + verb."
+  },
+  "distractors": [
+   "To confuse someone on purpose.",
+   "To ask someone politely for a favor.",
+   "To hide the truth from someone."
+  ],
+  "tip": "Convince is about belief or decision; 'persuade' is similar but focuses on getting someone to act."
+ },
+ {
+  "id": "subtle",
+  "word": "subtle",
+  "ipa": "/ˈsʌt.əl/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Small and delicate, not obvious, so it is easy to miss.",
+  "examples": [
+   "There is a subtle difference between the two phone models.",
+   "He gave a subtle hint that it was time to go."
+  ],
+  "collocations": [
+   "subtle difference",
+   "subtle hint",
+   "subtle flavor"
+  ],
+  "family": [
+   "subtly (adv)",
+   "subtlety (n)"
+  ],
+  "pattern": {
+   "rule": "subtle + noun (difference, change, hint)",
+   "example": "There was a subtle change in her tone."
+  },
+  "forms": [
+   "subtle"
+  ],
+  "cloze": {
+   "sentence": "The ___ smell of lemon in the soap was pleasant but not too strong.",
+   "answer": "subtle"
+  },
+  "formDrill": {
+   "sentence": "Her tone changed ___, and I knew she was upset.",
+   "base": "subtle",
+   "answer": "subtly"
+  },
+  "fix": {
+   "wrong": "The difference is very subtle to notice it.",
+   "right": "The difference is very subtle.",
+   "why": "Don't add 'to notice it'; subtle already means hard to notice."
+  },
+  "distractors": [
+   "Loud and impossible to ignore.",
+   "Very cheap and simple.",
+   "Quick and sudden."
+  ],
+  "tip": "The b is silent: say /ˈsʌt.əl/."
+ },
+ {
+  "id": "tangible",
+  "word": "tangible",
+  "ipa": "/ˈtæn.dʒə.bəl/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Real and clear enough to be seen, touched or measured.",
+  "examples": [
+   "The training produced tangible results within three months.",
+   "There was no tangible proof that he had paid."
+  ],
+  "collocations": [
+   "tangible benefits",
+   "tangible results",
+   "tangible evidence"
+  ],
+  "family": [
+   "tangibly (adv)",
+   "intangible (adj)"
+  ],
+  "pattern": {
+   "rule": "tangible + noun (results, benefits, proof)",
+   "example": "We need tangible evidence."
+  },
+  "forms": [
+   "tangible"
+  ],
+  "cloze": {
+   "sentence": "Investors want ___ proof that the app makes money.",
+   "answer": "tangible"
+  },
+  "formDrill": {
+   "sentence": "A company's reputation is ___: you cannot touch it, but it affects sales.",
+   "base": "tangible",
+   "answer": "intangible"
+  },
+  "fix": {
+   "wrong": "The course gave me tangibly benefits.",
+   "right": "The course gave me tangible benefits.",
+   "why": "Use the adjective 'tangible' before a noun, not the adverb."
+  },
+  "distractors": [
+   "Hard to explain in words.",
+   "Expected to happen soon.",
+   "Owned by more than one person."
+  ],
+  "tip": "The opposite is 'intangible', e.g. brand reputation or goodwill."
+ },
+ {
+  "id": "versatile",
+  "word": "versatile",
+  "ipa": "/ˈvɜː.sə.taɪl/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Able to do many different things or be used in many ways.",
+  "examples": [
+   "Rice is a versatile food; you can cook it many ways.",
+   "He is a versatile player who can play in any position."
+  ],
+  "collocations": [
+   "versatile tool",
+   "versatile player",
+   "highly versatile"
+  ],
+  "family": [
+   "versatility (n)"
+  ],
+  "pattern": {
+   "rule": "versatile + noun (person, tool, food)",
+   "example": "She is a versatile writer."
+  },
+  "forms": [
+   "versatile"
+  ],
+  "cloze": {
+   "sentence": "A good phone case should be ___ enough for work and travel.",
+   "answer": "versatile"
+  },
+  "formDrill": {
+   "sentence": "Employers value ___ because it lets one person handle many tasks.",
+   "base": "versatile",
+   "answer": "versatility"
+  },
+  "fix": {
+   "wrong": "She is a versatility player.",
+   "right": "She is a versatile player.",
+   "why": "Use the adjective 'versatile' before a noun."
+  },
+  "distractors": [
+   "Able to do only one task well.",
+   "Very expensive but low in quality.",
+   "Quick to break or wear out."
+  ],
+  "tip": "Versatile is a strong compliment for people, skills and products."
+ },
+ {
+  "id": "suggest",
+  "word": "suggest",
+  "ipa": "/səˈdʒest/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To offer an idea or plan for someone to think about.",
+  "examples": [
+   "I suggest we start the meeting at ten.",
+   "She suggested taking a taxi instead of the bus."
+  ],
+  "collocations": [
+   "suggest a solution",
+   "strongly suggest",
+   "suggest that"
+  ],
+  "family": [
+   "suggestion (n)",
+   "suggestive (adj)"
+  ],
+  "pattern": {
+   "rule": "suggest + -ing / that + subject + verb (not suggest + person + to)",
+   "example": "I suggest going early. / I suggest that he waits."
+  },
+  "forms": [
+   "suggest",
+   "suggests",
+   "suggested",
+   "suggesting"
+  ],
+  "cloze": {
+   "sentence": "Can anyone ___ a good restaurant near the office?",
+   "answer": "suggest"
+  },
+  "formDrill": {
+   "sentence": "Do you have any ___ for improving the app?",
+   "base": "suggest",
+   "answer": "suggestions"
+  },
+  "fix": {
+   "wrong": "He suggested me to take a break.",
+   "right": "He suggested that I take a break.",
+   "why": "After 'suggest' don't use person + to-infinitive; use a that clause or -ing."
+  },
+  "distractors": [
+   "To order someone firmly to do a task.",
+   "To describe something in full detail.",
+   "To refuse an offer politely."
+  ],
+  "tip": "'Suggest' can also mean 'show indirectly': The results suggest that sales are falling."
+ },
+ {
+  "id": "viable",
+  "word": "viable",
+  "ipa": "/ˈvaɪ.ə.bəl/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Able to work well or succeed, especially in business or practical terms.",
+  "examples": [
+   "Is selling snacks at the school gate a viable business?",
+   "The council is looking for a viable alternative to the old road."
+  ],
+  "collocations": [
+   "viable option",
+   "commercially viable",
+   "viable alternative"
+  ],
+  "family": [
+   "viability (n)",
+   "viably (adv)"
+  ],
+  "pattern": {
+   "rule": "viable + noun (option, plan, business)",
+   "example": "It's a viable option."
+  },
+  "forms": [
+   "viable"
+  ],
+  "cloze": {
+   "sentence": "Without enough customers, the shop was not ___ and had to close.",
+   "answer": "viable"
+  },
+  "formDrill": {
+   "sentence": "Investors questioned the ___ of the startup.",
+   "base": "viable",
+   "answer": "viability"
+  },
+  "fix": {
+   "wrong": "The plan is viable to succeed.",
+   "right": "The plan is viable.",
+   "why": "Don't add 'to succeed'; viable already means able to succeed."
+  },
+  "distractors": [
+   "Easy to copy or imitate.",
+   "Loved by most customers.",
+   "Too risky to try at all."
+  ],
+  "tip": "Viable is common with 'business', 'option' and 'alternative'."
+ },
+ {
+  "id": "convey",
+  "word": "convey",
+  "ipa": "/kənˈveɪ/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To communicate a message, idea or feeling to someone.",
+  "examples": [
+   "The photo conveys how crowded the market was.",
+   "I tried to convey my thanks, but the words felt small."
+  ],
+  "collocations": [
+   "convey a message",
+   "convey information",
+   "convey meaning"
+  ],
+  "family": [
+   "conveyance (n)"
+  ],
+  "pattern": {
+   "rule": "convey + noun + to + person",
+   "example": "She conveyed the news to the team."
+  },
+  "forms": [
+   "convey",
+   "conveys",
+   "conveyed",
+   "conveying"
+  ],
+  "cloze": {
+   "sentence": "A short, clear email will ___ the main point better than a long one.",
+   "answer": "convey"
+  },
+  "formDrill": {
+   "sentence": "Her smile ___ more than words could.",
+   "base": "convey",
+   "answer": "conveyed"
+  },
+  "fix": {
+   "wrong": "He conveyed me the message.",
+   "right": "He conveyed the message to me.",
+   "why": "Convey needs 'to' before the person."
+  },
+  "distractors": [
+   "To carry out a plan on time.",
+   "To ask a question politely.",
+   "To change a message into another language."
+  ],
+  "tip": "Convey is more formal than 'tell' or 'pass on'."
+ },
+ {
+  "id": "credible",
+  "word": "credible",
+  "ipa": "/ˈkred.ə.bəl/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Able to be believed or trusted because it seems honest and sensible.",
+  "examples": [
+   "A credible witness told the court what she saw.",
+   "The company needs a credible plan to repay its loans."
+  ],
+  "collocations": [
+   "credible source",
+   "credible witness",
+   "credible threat"
+  ],
+  "family": [
+   "credibility (n)",
+   "credibly (adv)",
+   "incredible (adj)"
+  ],
+  "pattern": {
+   "rule": "credible + noun (source, evidence, plan)",
+   "example": "We need a credible source."
+  },
+  "forms": [
+   "credible"
+  ],
+  "cloze": {
+   "sentence": "Check that the news comes from a ___ source before you share it.",
+   "answer": "credible"
+  },
+  "formDrill": {
+   "sentence": "Missing deadlines damaged his ___ with clients.",
+   "base": "credible",
+   "answer": "credibility"
+  },
+  "fix": {
+   "wrong": "The story was so incredible that everyone trusted it.",
+   "right": "The story was so credible that everyone trusted it.",
+   "why": "'Incredible' means hard to believe; 'credible' means believable."
+  },
+  "distractors": [
+   "Easy to find online.",
+   "Likely to make people laugh.",
+   "Very surprising and exciting."
+  ],
+  "tip": "Credible (believable) is different from credulous (too ready to believe)."
+ },
+ {
+  "id": "reliable",
+  "word": "reliable",
+  "ipa": "/rɪˈlaɪ.ə.bəl/",
+  "pos": "adjective",
+  "level": "everyday",
+  "definition": "Able to be trusted to work well or do what is promised.",
+  "examples": [
+   "My car is old but very reliable.",
+   "Is this website a reliable source of news?"
+  ],
+  "collocations": [
+   "reliable source",
+   "reliable service",
+   "reliable information"
+  ],
+  "family": [
+   "reliably (adv)",
+   "reliability (n)",
+   "rely (v)"
+  ],
+  "pattern": {
+   "rule": "reliable + noun / rely on + noun",
+   "example": "He is a reliable driver."
+  },
+  "forms": [
+   "reliable"
+  ],
+  "cloze": {
+   "sentence": "Our internet is not ___; it cuts out every afternoon.",
+   "answer": "reliable"
+  },
+  "formDrill": {
+   "sentence": "The bus does not run ___, so I leave early.",
+   "base": "reliable",
+   "answer": "reliably"
+  },
+  "fix": {
+   "wrong": "She is very reliable person.",
+   "right": "She is a very reliable person.",
+   "why": "A singular countable noun still needs 'a' after the adjective phrase."
+  },
+  "distractors": [
+   "Easy to change or replace.",
+   "New and very modern.",
+   "Cheap but not very strong."
+  ],
+  "tip": "The verb is 'rely on', with the preposition 'on'."
+ },
+ {
+  "id": "diverse",
+  "word": "diverse",
+  "ipa": "/daɪˈvɜːs/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Made up of many different types of people or things.",
+  "examples": [
+   "Lagos has a diverse population from every part of Nigeria.",
+   "Our team is diverse: five countries, four languages."
+  ],
+  "collocations": [
+   "diverse range",
+   "diverse community",
+   "culturally diverse"
+  ],
+  "family": [
+   "diversity (n)",
+   "diversify (v)",
+   "diversely (adv)"
+  ],
+  "pattern": {
+   "rule": "diverse + plural/group noun",
+   "example": "a diverse range of opinions"
+  },
+  "forms": [
+   "diverse"
+  ],
+  "cloze": {
+   "sentence": "The university has a ___ student body from over forty countries.",
+   "answer": "diverse"
+  },
+  "formDrill": {
+   "sentence": "Companies benefit from ___ in their teams.",
+   "base": "diverse",
+   "answer": "diversity"
+  },
+  "fix": {
+   "wrong": "The team is very diversity.",
+   "right": "The team is very diverse.",
+   "why": "After 'is', use the adjective 'diverse', not the noun."
+  },
+  "distractors": [
+   "Exactly the same in every way.",
+   "Divided into two equal parts.",
+   "Difficult to understand."
+  ],
+  "tip": "Diverse and different are related, but diverse describes a group with many kinds."
+ },
+ {
+  "id": "elaborate",
+  "word": "elaborate",
+  "ipa": "/ɪˈlæb.ə.rət/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Having many parts or details and carefully planned or made.",
+  "examples": [
+   "They organized an elaborate wedding with five hundred guests.",
+   "The thieves had an elaborate plan to get into the bank."
+  ],
+  "collocations": [
+   "elaborate plan",
+   "elaborate design",
+   "elaborate meal"
+  ],
+  "family": [
+   "elaborately (adv)",
+   "elaboration (n)"
+  ],
+  "pattern": {
+   "rule": "elaborate (adj) + noun; elaborate (verb) on + noun",
+   "example": "an elaborate plan"
+  },
+  "forms": [
+   "elaborate",
+   "elaborates",
+   "elaborated",
+   "elaborating"
+  ],
+  "cloze": {
+   "sentence": "He wrote an ___ excuse that took ten minutes to read.",
+   "answer": "elaborate"
+  },
+  "formDrill": {
+   "sentence": "The room was ___ decorated with gold and lights.",
+   "base": "elaborate",
+   "answer": "elaborately"
+  },
+  "fix": {
+   "wrong": "Could you elaborate about your idea?",
+   "right": "Could you elaborate on your idea?",
+   "why": "The verb takes 'on', meaning 'explain in more detail'."
+  },
+  "distractors": [
+   "Very simple and plain.",
+   "Quick and cheap to make.",
+   "Cheap and badly made."
+  ],
+  "tip": "As a verb, /ɪˈlæb.ə.reɪt/, 'elaborate on' means to give more details."
+ },
+ {
+  "id": "emphasize",
+  "word": "emphasize",
+  "ipa": "/ˈem.fə.saɪz/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To give special importance to something so people notice it.",
+  "examples": [
+   "The coach emphasized the importance of arriving early.",
+   "In your CV, emphasize skills that match the job."
+  ],
+  "collocations": [
+   "emphasize the importance",
+   "strongly emphasize",
+   "emphasize that"
+  ],
+  "family": [
+   "emphasis (n)",
+   "emphatic (adj)",
+   "emphatically (adv)"
+  ],
+  "pattern": {
+   "rule": "emphasize + noun / that clause",
+   "example": "She emphasized that safety comes first."
+  },
+  "forms": [
+   "emphasize",
+   "emphasizes",
+   "emphasized",
+   "emphasizing",
+   "emphasise",
+   "emphasises",
+   "emphasised",
+   "emphasising"
+  ],
+  "cloze": {
+   "sentence": "The teacher wanted to ___ how important practice is.",
+   "answer": "emphasize"
+  },
+  "formDrill": {
+   "sentence": "The manager put great ___ on punctuality.",
+   "base": "emphasize",
+   "answer": "emphasis"
+  },
+  "fix": {
+   "wrong": "He emphasized on the need for rest.",
+   "right": "He emphasized the need for rest.",
+   "why": "Emphasize is transitive and takes no 'on'; the noun 'emphasis' takes 'on'."
+  },
+  "distractors": [
+   "To hide a detail from others.",
+   "To make an idea simpler to follow.",
+   "To repeat a rule angrily."
+  ],
+  "tip": "British spelling is emphasise; both are correct."
+ },
+ {
+  "id": "eventually",
+  "word": "eventually",
+  "ipa": "/ɪˈven.tʃu.ə.li/",
+  "pos": "adverb",
+  "level": "everyday",
+  "definition": "After a long time or a lot of effort, at the end of a process.",
+  "examples": [
+   "We waited two hours and eventually the bus arrived.",
+   "He eventually paid back the money."
+  ],
+  "collocations": [
+   "eventually decide",
+   "eventually realize",
+   "finally and eventually"
+  ],
+  "family": [
+   "eventual (adj)"
+  ],
+  "pattern": {
+   "rule": "eventually + verb (before main verb or at the start)",
+   "example": "She eventually found a job."
+  },
+  "forms": [
+   "eventually"
+  ],
+  "cloze": {
+   "sentence": "After many failed tries, he ___ passed his driving test.",
+   "answer": "eventually"
+  },
+  "formDrill": {
+   "sentence": "The ___ winner was announced after three rounds.",
+   "base": "eventually",
+   "answer": "eventual"
+  },
+  "fix": {
+   "wrong": "I will eventually come tomorrow.",
+   "right": "I will come tomorrow.",
+   "why": "'Eventually' means after a long time, not a near, planned time."
+  },
+  "distractors": [
+   "By chance and without planning.",
+   "Possibly, but not certainly.",
+   "Very soon, almost at once."
+  ],
+  "tip": "Eventually is NOT 'maybe' (French/Spanish false friend); it means 'in the end'."
+ },
+ {
+  "id": "enhance",
+  "word": "enhance",
+  "ipa": "/ɪnˈhɑːns/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To improve the quality, value or strength of something.",
+  "examples": [
+   "New lights will enhance the look of the shop.",
+   "Online courses can enhance your chances of promotion."
+  ],
+  "collocations": [
+   "enhance performance",
+   "enhance the quality",
+   "greatly enhance"
+  ],
+  "family": [
+   "enhancement (n)",
+   "enhanced (adj)"
+  ],
+  "pattern": {
+   "rule": "enhance + noun (quality, skills, image)",
+   "example": "Training enhances your skills."
+  },
+  "forms": [
+   "enhance",
+   "enhances",
+   "enhanced",
+   "enhancing"
+  ],
+  "cloze": {
+   "sentence": "A little salt can ___ the flavor of the soup.",
+   "answer": "enhance"
+  },
+  "formDrill": {
+   "sentence": "The update brought several ___ to the app.",
+   "base": "enhance",
+   "answer": "enhancements"
+  },
+  "fix": {
+   "wrong": "This course will enhance my to speak English.",
+   "right": "This course will enhance my English.",
+   "why": "Enhance takes a noun object, not a to-infinitive."
+  },
+  "distractors": [
+   "To make something shorter or smaller.",
+   "To protect something from damage.",
+   "To change something completely."
+  ],
+  "tip": "Enhance is for things that are already good, to make them better."
+ },
+ {
+  "id": "explicit",
+  "word": "explicit",
+  "ipa": "/ɪkˈsplɪs.ɪt/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Stated clearly and in detail, leaving no doubt about what is meant.",
+  "examples": [
+   "The rules are explicit: no phones in the exam hall.",
+   "She gave me explicit instructions on how to open the account."
+  ],
+  "collocations": [
+   "explicit instructions",
+   "explicit permission",
+   "explicit about"
+  ],
+  "family": [
+   "explicitly (adv)",
+   "explicitness (n)"
+  ],
+  "pattern": {
+   "rule": "explicit + noun / explicit about + noun",
+   "example": "He was explicit about the deadline."
+  },
+  "forms": [
+   "explicit"
+  ],
+  "cloze": {
+   "sentence": "The manager gave ___ permission to leave early.",
+   "answer": "explicit"
+  },
+  "formDrill": {
+   "sentence": "The contract ___ states that payment is due in 30 days.",
+   "base": "explicit",
+   "answer": "explicitly"
+  },
+  "fix": {
+   "wrong": "He was explicit in the price when we spoke.",
+   "right": "He was explicit about the price when we spoke.",
+   "why": "Use 'explicit about' a topic."
+  },
+  "distractors": [
+   "Hinted at but not directly said.",
+   "Very short and easy to forget.",
+   "Not allowed under the rules."
+  ],
+  "tip": "Explicit can also describe adult content, e.g. 'explicit lyrics'."
+ },
+ {
+  "id": "implicit",
+  "word": "implicit",
+  "ipa": "/ɪmˈplɪs.ɪt/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Suggested or understood without being said directly.",
+  "examples": [
+   "There was an implicit warning in his smile.",
+   "We have an implicit agreement not to discuss salaries."
+  ],
+  "collocations": [
+   "implicit agreement",
+   "implicit trust",
+   "implicit message"
+  ],
+  "family": [
+   "implicitly (adv)"
+  ],
+  "pattern": {
+   "rule": "implicit + noun / implicit in + noun",
+   "example": "The threat was implicit in his words."
+  },
+  "forms": [
+   "implicit"
+  ],
+  "cloze": {
+   "sentence": "Her silence was an ___ yes to the proposal.",
+   "answer": "implicit"
+  },
+  "formDrill": {
+   "sentence": "I trust my brother ___ with my money.",
+   "base": "implicit",
+   "answer": "implicitly"
+  },
+  "fix": {
+   "wrong": "The rule is implicit on the contract.",
+   "right": "The rule is implicit in the contract.",
+   "why": "Use 'implicit in' for something contained but not stated."
+  },
+  "distractors": [
+   "Stated clearly in writing.",
+   "Strongly disliked by most people.",
+   "Difficult for beginners to learn."
+  ],
+  "tip": "Implicit is the opposite of explicit; learners often swap them."
+ },
+ {
+  "id": "actually",
+  "word": "actually",
+  "ipa": "/ˈæk.tʃu.ə.li/",
+  "pos": "adverb",
+  "level": "everyday",
+  "definition": "In fact; used to say what is really true, often when it is surprising.",
+  "examples": [
+   "I thought the exam was hard, but it was actually quite easy.",
+   "Actually, I'm not free on Friday; can we meet Monday?"
+  ],
+  "collocations": [
+   "actually quite",
+   "what actually happened",
+   "not actually"
+  ],
+  "family": [
+   "actual (adj)"
+  ],
+  "pattern": {
+   "rule": "actually + verb / at the start of a correction",
+   "example": "It actually works well."
+  },
+  "forms": [
+   "actually"
+  ],
+  "cloze": {
+   "sentence": "He looks young, but he is ___ forty years old.",
+   "answer": "actually"
+  },
+  "formDrill": {
+   "sentence": "The ___ cost was much higher than the quote.",
+   "base": "actually",
+   "answer": "actual"
+  },
+  "fix": {
+   "wrong": "Actually I live in Abuja, but I will move next year.",
+   "right": "Currently I live in Abuja, but I will move next year.",
+   "why": "'Actually' means 'in fact', not 'at the present time'."
+  },
+  "distractors": [
+   "At the present time.",
+   "Almost, but not completely.",
+   "In the same way as before."
+  ],
+  "tip": "Actually does not mean 'at present'; use 'currently' or 'now' for that."
+ },
+ {
+  "id": "foster",
+  "word": "foster",
+  "ipa": "/ˈfɒs.tər/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To help something develop and grow over time.",
+  "examples": [
+   "Good teachers foster a love of reading in children.",
+   "The program aims to foster teamwork across departments."
+  ],
+  "collocations": [
+   "foster a sense of",
+   "foster growth",
+   "foster creativity"
+  ],
+  "family": [
+   "fostering (n)"
+  ],
+  "pattern": {
+   "rule": "foster + noun (growth, trust, creativity)",
+   "example": "Open talks foster trust."
+  },
+  "forms": [
+   "foster",
+   "fosters",
+   "fostered",
+   "fostering"
+  ],
+  "cloze": {
+   "sentence": "A friendly office can ___ better teamwork.",
+   "answer": "foster"
+  },
+  "formDrill": {
+   "sentence": "Careful ___ of young talent has made the club successful.",
+   "base": "foster",
+   "answer": "fostering"
+  },
+  "fix": {
+   "wrong": "The teacher fostered the students to read.",
+   "right": "The teacher encouraged the students to read.",
+   "why": "Foster takes a noun like 'a love of reading', not person + to-verb."
+  },
+  "distractors": [
+   "To stop something from growing.",
+   "To buy something for a low price.",
+   "To copy someone's style."
+  ],
+  "tip": "Foster can also mean caring for a child who isn't yours, as in 'foster parent'."
+ },
+ {
+  "id": "fundamental",
+  "word": "fundamental",
+  "ipa": "/ˌfʌn.dəˈmen.təl/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Forming the most basic and important part of something.",
+  "examples": [
+   "Honesty is fundamental to any good friendship.",
+   "The report found a fundamental problem in the design."
+  ],
+  "collocations": [
+   "fundamental change",
+   "fundamental right",
+   "fundamental to"
+  ],
+  "family": [
+   "fundamentally (adv)",
+   "fundamentals (n)"
+  ],
+  "pattern": {
+   "rule": "fundamental + to + noun",
+   "example": "Trust is fundamental to business."
+  },
+  "forms": [
+   "fundamental"
+  ],
+  "cloze": {
+   "sentence": "Clean water is a ___ human right.",
+   "answer": "fundamental"
+  },
+  "formDrill": {
+   "sentence": "The two plans differ ___ in how they use money.",
+   "base": "fundamental",
+   "answer": "fundamentally"
+  },
+  "fix": {
+   "wrong": "Trust is fundamental for teamwork.",
+   "right": "Trust is fundamental to teamwork.",
+   "why": "Use 'fundamental to'."
+  },
+  "distractors": [
+   "Only slightly important.",
+   "Easy to change later.",
+   "Newly invented."
+  ],
+  "tip": "The noun 'fundamentals' means the basic rules, e.g. 'the fundamentals of accounting'."
+ },
+ {
+  "id": "hinder",
+  "word": "hinder",
+  "ipa": "/ˈhɪn.dər/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To make it harder for someone to do something or for something to happen.",
+  "examples": [
+   "Heavy rain hindered the rescue team.",
+   "A weak internet connection can hinder online learning."
+  ],
+  "collocations": [
+   "hinder progress",
+   "hinder development",
+   "hinder efforts"
+  ],
+  "family": [
+   "hindrance (n)"
+  ],
+  "pattern": {
+   "rule": "hinder + noun / hinder + person + from + -ing",
+   "example": "Noise hinders me from studying."
+  },
+  "forms": [
+   "hinder",
+   "hinders",
+   "hindered",
+   "hindering"
+  ],
+  "cloze": {
+   "sentence": "Poor roads ___ the delivery of goods to rural areas.",
+   "answer": "hinder"
+  },
+  "formDrill": {
+   "sentence": "Fear can be a serious ___ to success.",
+   "base": "hinder",
+   "answer": "hindrance"
+  },
+  "fix": {
+   "wrong": "Rain hindered us to arrive.",
+   "right": "Rain hindered us from arriving.",
+   "why": "Use hinder + person + from + -ing."
+  },
+  "distractors": [
+   "To help someone finish early.",
+   "To forbid something by law.",
+   "To remind someone of a task."
+  ],
+  "tip": "Hinder is slightly formal; in speech people often say 'slow down' or 'get in the way of'."
+ },
+ {
+  "id": "borrow",
+  "word": "borrow",
+  "ipa": "/ˈbɒr.əʊ/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To take something from someone and promise to give it back later.",
+  "examples": [
+   "Can I borrow your charger for an hour?",
+   "She borrowed money from the bank to start a shop."
+  ],
+  "collocations": [
+   "borrow money",
+   "borrow from",
+   "borrow a book"
+  ],
+  "family": [
+   "borrower (n)"
+  ],
+  "pattern": {
+   "rule": "borrow + thing + from + person",
+   "example": "I borrowed a pen from Ade."
+  },
+  "forms": [
+   "borrow",
+   "borrows",
+   "borrowed",
+   "borrowing"
+  ],
+  "cloze": {
+   "sentence": "Can I ___ your umbrella until this evening?",
+   "answer": "borrow"
+  },
+  "formDrill": {
+   "sentence": "The bank asked every ___ to show proof of income.",
+   "base": "borrow",
+   "answer": "borrower"
+  },
+  "fix": {
+   "wrong": "Can you borrow me your pen?",
+   "right": "Can you lend me your pen? / Can I borrow your pen?",
+   "why": "You borrow FROM someone; the giver lends."
+  },
+  "distractors": [
+   "To give something to someone for a short time.",
+   "To buy something on a payment plan.",
+   "To lose something and not find it."
+  ],
+  "tip": "Borrow = receive; lend = give. You borrow from a person and lend to a person."
+ },
+ {
+  "id": "anticipate",
+  "word": "anticipate",
+  "ipa": "/ænˈtɪs.ɪ.peɪt/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To expect something and prepare for it before it happens.",
+  "examples": [
+   "We anticipate a lot of traffic on Friday evening.",
+   "Good managers anticipate problems before they grow."
+  ],
+  "collocations": [
+   "anticipate problems",
+   "anticipate demand",
+   "anticipate that"
+  ],
+  "family": [
+   "anticipation (n)",
+   "anticipated (adj)"
+  ],
+  "pattern": {
+   "rule": "anticipate + noun / -ing / that clause",
+   "example": "We anticipate delays."
+  },
+  "forms": [
+   "anticipate",
+   "anticipates",
+   "anticipated",
+   "anticipating"
+  ],
+  "cloze": {
+   "sentence": "The shop owner didn't ___ so many customers on the first day.",
+   "answer": "anticipate"
+  },
+  "formDrill": {
+   "sentence": "There was great ___ before the concert began.",
+   "base": "anticipate",
+   "answer": "anticipation"
+  },
+  "fix": {
+   "wrong": "We anticipate to finish by June.",
+   "right": "We expect to finish by June. / We anticipate finishing by June.",
+   "why": "Anticipate is followed by -ing or a noun, not to + verb."
+  },
+  "distractors": [
+   "To regret a past decision.",
+   "To remember a date or name.",
+   "To be surprised by news."
+  ],
+  "tip": "Anticipate is stronger than 'expect': it includes getting ready."
+ },
+ {
+  "id": "alleviate",
+  "word": "alleviate",
+  "ipa": "/əˈliː.vi.eɪt/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To make pain, a problem or a difficulty less severe.",
+  "examples": [
+   "Painkillers alleviate the pain, but they don't cure it.",
+   "New buses should alleviate traffic on the main road."
+  ],
+  "collocations": [
+   "alleviate poverty",
+   "alleviate pain",
+   "alleviate pressure"
+  ],
+  "family": [
+   "alleviation (n)"
+  ],
+  "pattern": {
+   "rule": "alleviate + noun (pain, stress, poverty)",
+   "example": "Exercise can alleviate stress."
+  },
+  "forms": [
+   "alleviate",
+   "alleviates",
+   "alleviated",
+   "alleviating"
+  ],
+  "cloze": {
+   "sentence": "Cash transfers can help ___ hunger in poor families.",
+   "answer": "alleviate"
+  },
+  "formDrill": {
+   "sentence": "The ___ of poverty needs more than money.",
+   "base": "alleviate",
+   "answer": "alleviation"
+  },
+  "fix": {
+   "wrong": "This tablet will alleviate from the pain.",
+   "right": "This tablet will alleviate the pain.",
+   "why": "Alleviate takes a direct object, with no preposition."
+  },
+  "distractors": [
+   "To remove a problem completely.",
+   "To make a situation worse.",
+   "To blame someone for a problem."
+  ],
+  "tip": "Alleviate reduces a problem; it does not remove it completely."
+ },
+ {
+  "id": "advocate",
+  "word": "advocate",
+  "ipa": "/ˈæd.və.keɪt/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To publicly support an idea, plan or cause.",
+  "examples": [
+   "She advocates better pay for nurses.",
+   "Many doctors advocate drinking more water."
+  ],
+  "collocations": [
+   "advocate change",
+   "strongly advocate",
+   "advocate for"
+  ],
+  "family": [
+   "advocate (n)",
+   "advocacy (n)"
+  ],
+  "pattern": {
+   "rule": "advocate + noun / -ing / advocate for + cause (US)",
+   "example": "He advocates cutting costs."
+  },
+  "forms": [
+   "advocate",
+   "advocates",
+   "advocated",
+   "advocating"
+  ],
+  "cloze": {
+   "sentence": "Our group will ___ equal education for girls.",
+   "answer": "advocate"
+  },
+  "formDrill": {
+   "sentence": "Years of ___ finally led to a new law.",
+   "base": "advocate",
+   "answer": "advocacy"
+  },
+  "fix": {
+   "wrong": "He advocates to reduce costs.",
+   "right": "He advocates reducing costs.",
+   "why": "Advocate takes -ing or a noun, not to + verb."
+  },
+  "distractors": [
+   "To argue against an idea publicly.",
+   "To forget a duty on purpose.",
+   "To give advice in private."
+  ],
+  "tip": "As a noun (/ˈæd.və.kət/), an advocate is someone who supports a cause."
+ },
+ {
+  "id": "lend",
+  "word": "lend",
+  "ipa": "/lend/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To give something to someone for a short time, expecting it back.",
+  "examples": [
+   "Could you lend me ten thousand naira until Friday?",
+   "He lent his bike to a neighbor."
+  ],
+  "collocations": [
+   "lend money",
+   "lend a hand",
+   "lend someone"
+  ],
+  "family": [
+   "lender (n)",
+   "loan (n)"
+  ],
+  "pattern": {
+   "rule": "lend + person + thing / lend + thing + to + person",
+   "example": "Lend me your book. / Lend your book to me."
+  },
+  "forms": [
+   "lend",
+   "lends",
+   "lent",
+   "lending"
+  ],
+  "cloze": {
+   "sentence": "Can you ___ me your phone for a minute? Mine is dead.",
+   "answer": "lend"
+  },
+  "formDrill": {
+   "sentence": "The bank is the largest ___ in the country.",
+   "base": "lend",
+   "answer": "lender"
+  },
+  "fix": {
+   "wrong": "He lended me his car.",
+   "right": "He lent me his car.",
+   "why": "The past of 'lend' is 'lent'."
+  },
+  "distractors": [
+   "To take something and keep it forever.",
+   "To ask for money in a polite way.",
+   "To sell something for less than its value."
+  ],
+  "tip": "Irregular: lend, lent, lent. Don't mix it up with borrow."
+ },
+ {
+  "id": "compelling",
+  "word": "compelling",
+  "ipa": "/kəmˈpel.ɪŋ/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "So interesting or convincing that you cannot ignore it.",
+  "examples": [
+   "She gave a compelling talk about climate change.",
+   "There is compelling evidence that the drug works."
+  ],
+  "collocations": [
+   "compelling evidence",
+   "compelling reason",
+   "compelling story"
+  ],
+  "family": [
+   "compel (v)",
+   "compellingly (adv)"
+  ],
+  "pattern": {
+   "rule": "compelling + noun (reason, evidence, story)",
+   "example": "a compelling reason"
+  },
+  "forms": [
+   "compelling"
+  ],
+  "cloze": {
+   "sentence": "The lawyer presented ___ evidence that the contract was broken.",
+   "answer": "compelling"
+  },
+  "formDrill": {
+   "sentence": "The film tells the story ___ and keeps you watching.",
+   "base": "compelling",
+   "answer": "compellingly"
+  },
+  "fix": {
+   "wrong": "The film was so compelled that I watched it twice.",
+   "right": "The film was so compelling that I watched it twice.",
+   "why": "Use -ing for the thing that compels; -ed describes the person."
+  },
+  "distractors": [
+   "Boring and hard to follow.",
+   "Forced on someone by law.",
+   "Easy to find and use."
+  ],
+  "tip": "'Compelling' is often used for arguments, reasons and stories."
+ },
+ {
+  "id": "comprehensive",
+  "word": "comprehensive",
+  "ipa": "/ˌkɒm.prɪˈhen.sɪv/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Including everything important; complete and thorough.",
+  "examples": [
+   "The hotel offers comprehensive insurance for all guests.",
+   "We wrote a comprehensive report on last year's sales."
+  ],
+  "collocations": [
+   "comprehensive review",
+   "comprehensive guide",
+   "comprehensive coverage"
+  ],
+  "family": [
+   "comprehensively (adv)",
+   "comprehend (v)"
+  ],
+  "pattern": {
+   "rule": "comprehensive + noun (guide, report, plan)",
+   "example": "a comprehensive guide"
+  },
+  "forms": [
+   "comprehensive"
+  ],
+  "cloze": {
+   "sentence": "Her notes are so ___ that I don't need the textbook.",
+   "answer": "comprehensive"
+  },
+  "formDrill": {
+   "sentence": "The committee ___ reviewed every claim.",
+   "base": "comprehensive",
+   "answer": "comprehensively"
+  },
+  "fix": {
+   "wrong": "The instructions were not comprehensive, so I could not follow them.",
+   "right": "The instructions were not comprehensible, so I could not follow them.",
+   "why": "'Comprehensive' means complete; 'comprehensible' means easy to understand."
+  },
+  "distractors": [
+   "Short and simple.",
+   "Hard to understand.",
+   "Only about a small part of a subject."
+  ],
+  "tip": "Comprehensive (complete) is different from comprehensible (understandable)."
+ },
+ {
+  "id": "consensus",
+  "word": "consensus",
+  "ipa": "/kənˈsen.səs/",
+  "pos": "noun",
+  "level": "advanced",
+  "definition": "General agreement among all or most people in a group.",
+  "examples": [
+   "The team reached a consensus on the new schedule.",
+   "There is no consensus among doctors about the best treatment."
+  ],
+  "collocations": [
+   "reach a consensus",
+   "broad consensus",
+   "consensus on"
+  ],
+  "family": [
+   "consensual (adj)"
+  ],
+  "pattern": {
+   "rule": "consensus + on / about + noun; uncountable",
+   "example": "a consensus on pricing"
+  },
+  "forms": [
+   "consensus"
+  ],
+  "cloze": {
+   "sentence": "After a long discussion, the board finally reached a ___.",
+   "answer": "consensus"
+  },
+  "formDrill": {
+   "sentence": "Police confirmed that the relationship was entirely ___, since both adults had agreed.",
+   "base": "consensus",
+   "answer": "consensual"
+  },
+  "fix": {
+   "wrong": "We reached to a consensus.",
+   "right": "We reached a consensus.",
+   "why": "We reach a consensus; no 'to' after 'reach'."
+  },
+  "distractors": [
+   "A vote won by a small number of people.",
+   "A rule made by one leader.",
+   "A long argument with no end."
+  ],
+  "tip": "Spelling: con-sen-sus. It is not 'concensus'; the word 'census' is a different thing."
+ },
+ {
+  "id": "recommend",
+  "word": "recommend",
+  "ipa": "/ˌrek.əˈmend/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To tell someone that something is good or that they should do it.",
+  "examples": [
+   "Can you recommend a reliable mechanic?",
+   "My doctor recommended resting for a week."
+  ],
+  "collocations": [
+   "highly recommend",
+   "recommend a book",
+   "recommend that"
+  ],
+  "family": [
+   "recommendation (n)",
+   "recommended (adj)"
+  ],
+  "pattern": {
+   "rule": "recommend + noun / -ing / that + subject + verb",
+   "example": "I recommend going early."
+  },
+  "forms": [
+   "recommend",
+   "recommends",
+   "recommended",
+   "recommending"
+  ],
+  "cloze": {
+   "sentence": "I would ___ the jollof rice at this restaurant; it is excellent.",
+   "answer": "recommend"
+  },
+  "formDrill": {
+   "sentence": "The manager wrote me a strong letter of ___.",
+   "base": "recommend",
+   "answer": "recommendation"
+  },
+  "fix": {
+   "wrong": "She recommended me to try the soup.",
+   "right": "She recommended that I try the soup.",
+   "why": "Don't use recommend + person + to-infinitive."
+  },
+  "distractors": [
+   "To ask someone to join your group.",
+   "To describe someone's bad behavior.",
+   "To pay someone for good work."
+  ],
+  "tip": "Spelling: one c and double m: re-com-mend."
+ },
+ {
+  "id": "deliberate",
+  "word": "deliberate",
+  "ipa": "/dɪˈlɪb.ər.ət/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Done on purpose and carefully planned, not by accident.",
+  "examples": [
+   "It was a deliberate choice to keep the price low.",
+   "The delay was not an accident; it was a deliberate attempt to waste time."
+  ],
+  "collocations": [
+   "deliberate attempt",
+   "deliberate choice",
+   "deliberate mistake"
+  ],
+  "family": [
+   "deliberately (adv)",
+   "deliberation (n)"
+  ],
+  "pattern": {
+   "rule": "deliberate + noun (act, choice, attempt)",
+   "example": "a deliberate choice"
+  },
+  "forms": [
+   "deliberate"
+  ],
+  "cloze": {
+   "sentence": "Nobody believed the fire was an accident; police said it was a ___ act.",
+   "answer": "deliberate"
+  },
+  "formDrill": {
+   "sentence": "She ___ ignored my messages to avoid the argument.",
+   "base": "deliberate",
+   "answer": "deliberately"
+  },
+  "fix": {
+   "wrong": "He broke the window deliberate.",
+   "right": "He broke the window deliberately.",
+   "why": "Use the adverb 'deliberately' to modify a verb."
+  },
+  "distractors": [
+   "Done by accident without thinking.",
+   "Very slow because of tiredness.",
+   "Agreed by all members of a group."
+  ],
+  "tip": "As a verb /dɪˈlɪb.ər.eɪt/ it means to think carefully; the adjective ends in /-ət/."
+ },
+ {
+  "id": "eliminate",
+  "word": "eliminate",
+  "ipa": "/ɪˈlɪm.ɪ.neɪt/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To completely remove or get rid of something that is not wanted.",
+  "examples": [
+   "The company wants to eliminate waste from its factory.",
+   "Good planning can eliminate most of the stress."
+  ],
+  "collocations": [
+   "eliminate errors",
+   "eliminate the risk",
+   "eliminate waste"
+  ],
+  "family": [
+   "elimination (n)"
+  ],
+  "pattern": {
+   "rule": "eliminate + noun (error, risk, waste)",
+   "example": "We eliminated the problem."
+  },
+  "forms": [
+   "eliminate",
+   "eliminates",
+   "eliminated",
+   "eliminating"
+  ],
+  "cloze": {
+   "sentence": "Using a checklist can ___ many small mistakes.",
+   "answer": "eliminate"
+  },
+  "formDrill": {
+   "sentence": "The ___ of unnecessary meetings saved everyone time.",
+   "base": "eliminate",
+   "answer": "elimination"
+  },
+  "fix": {
+   "wrong": "We must eliminate out the errors.",
+   "right": "We must eliminate the errors.",
+   "why": "Eliminate takes a direct object; do not add 'out'."
+  },
+  "distractors": [
+   "To reduce something a little.",
+   "To add something extra.",
+   "To check something again."
+  ],
+  "tip": "Eliminate means remove completely; 'reduce' means make smaller."
+ },
+ {
+  "id": "facilitate",
+  "word": "facilitate",
+  "ipa": "/fəˈsɪl.ɪ.teɪt/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To make a process or action easier or help it happen.",
+  "examples": [
+   "The new app facilitates payments between small shops and customers.",
+   "A good manager facilitates open discussion in meetings."
+  ],
+  "collocations": [
+   "facilitate discussion",
+   "facilitate access",
+   "facilitate the process"
+  ],
+  "family": [
+   "facilitation (n)",
+   "facilitator (n)",
+   "facility (n)"
+  ],
+  "pattern": {
+   "rule": "facilitate + noun (process, discussion, access)",
+   "example": "Tools facilitate learning."
+  },
+  "forms": [
+   "facilitate",
+   "facilitates",
+   "facilitated",
+   "facilitating"
+  ],
+  "cloze": {
+   "sentence": "Online forms ___ the application process for students.",
+   "answer": "facilitate"
+  },
+  "formDrill": {
+   "sentence": "The workshop ___ was friendly and kept everyone talking.",
+   "base": "facilitate",
+   "answer": "facilitator"
+  },
+  "fix": {
+   "wrong": "She facilitated us to finish.",
+   "right": "She helped us finish. / She facilitated the process.",
+   "why": "Facilitate takes a thing (a process), not a person + to-verb."
+  },
+  "distractors": [
+   "To make a situation more difficult.",
+   "To pay for something in advance.",
+   "To speak against an idea."
+  ],
+  "tip": "Facilitate has a thing as its object, never a person."
+ },
+ {
+  "id": "mention",
+  "word": "mention",
+  "ipa": "/ˈmen.ʃən/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To say something briefly, without giving many details.",
+  "examples": [
+   "She mentioned that she was changing jobs.",
+   "Did he mention the meeting time?"
+  ],
+  "collocations": [
+   "briefly mention",
+   "mention the fact",
+   "don't mention"
+  ],
+  "family": [
+   "mention (n)"
+  ],
+  "pattern": {
+   "rule": "mention + noun / that clause (no 'about')",
+   "example": "He mentioned the problem."
+  },
+  "forms": [
+   "mention",
+   "mentions",
+   "mentioned",
+   "mentioning"
+  ],
+  "cloze": {
+   "sentence": "I forgot to ___ that the office will be closed on Monday.",
+   "answer": "mention"
+  },
+  "formDrill": {
+   "sentence": "He ___ his new job only once.",
+   "base": "mention",
+   "answer": "mentioned"
+  },
+  "fix": {
+   "wrong": "She mentioned about her new job.",
+   "right": "She mentioned her new job.",
+   "why": "Mention is followed directly by its object, without 'about'."
+  },
+  "distractors": [
+   "To ask for something in a rude way.",
+   "To forget something important.",
+   "To explain something in great detail."
+  ],
+  "tip": "'Don't mention it' is a polite reply to 'thank you'."
+ },
+ {
+  "id": "fluctuate",
+  "word": "fluctuate",
+  "ipa": "/ˈflʌk.tʃu.eɪt/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To go up and down, change often in amount or level.",
+  "examples": [
+   "Fuel prices fluctuate from week to week.",
+   "His mood fluctuated throughout the day."
+  ],
+  "collocations": [
+   "fluctuate wildly",
+   "fluctuate between",
+   "prices fluctuate"
+  ],
+  "family": [
+   "fluctuation (n)"
+  ],
+  "pattern": {
+   "rule": "fluctuate + between + A and B / fluctuate around + number",
+   "example": "Prices fluctuate between N500 and N700."
+  },
+  "forms": [
+   "fluctuate",
+   "fluctuates",
+   "fluctuated",
+   "fluctuating"
+  ],
+  "cloze": {
+   "sentence": "The exchange rate can ___ a lot in a single day.",
+   "answer": "fluctuate"
+  },
+  "formDrill": {
+   "sentence": "There were wide ___ in temperature during the week.",
+   "base": "fluctuate",
+   "answer": "fluctuations"
+  },
+  "fix": {
+   "wrong": "Prices fluctuate among N500 and N700.",
+   "right": "Prices fluctuate between N500 and N700.",
+   "why": "Use 'between ... and ...' with fluctuate."
+  },
+  "distractors": [
+   "To rise steadily without stopping.",
+   "To stay exactly the same.",
+   "To fall to zero suddenly."
+  ],
+  "tip": "Fluctuate always suggests movement both up and down."
+ },
+ {
+  "id": "implement",
+  "word": "implement",
+  "ipa": "/ˈɪm.plɪ.ment/",
+  "pos": "verb",
+  "level": "advanced",
+  "definition": "To put a plan, system or decision into action.",
+  "examples": [
+   "The school will implement a new attendance system in January.",
+   "They implemented our suggestions within a week."
+  ],
+  "collocations": [
+   "implement a plan",
+   "implement changes",
+   "fully implement"
+  ],
+  "family": [
+   "implementation (n)"
+  ],
+  "pattern": {
+   "rule": "implement + noun (plan, policy, system)",
+   "example": "We implemented the new policy."
+  },
+  "forms": [
+   "implement",
+   "implements",
+   "implemented",
+   "implementing"
+  ],
+  "cloze": {
+   "sentence": "It will take months to ___ the new payment system.",
+   "answer": "implement"
+  },
+  "formDrill": {
+   "sentence": "The ___ of the plan was delayed by lack of funds.",
+   "base": "implement",
+   "answer": "implementation"
+  },
+  "fix": {
+   "wrong": "We implemented to change the schedule.",
+   "right": "We implemented the new schedule.",
+   "why": "Implement takes a noun object, not to + verb."
+  },
+  "distractors": [
+   "To stop a plan before it starts.",
+   "To write a plan on paper.",
+   "To argue against a plan."
+  ],
+  "tip": "As a noun, 'implement' means a tool, but this is rare."
+ },
+ {
+  "id": "innovative",
+  "word": "innovative",
+  "ipa": "/ˈɪn.ə.veɪ.tɪv/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Using new and clever ideas or methods.",
+  "examples": [
+   "The company launched an innovative app for farmers.",
+   "Her teaching methods are very innovative."
+  ],
+  "collocations": [
+   "innovative idea",
+   "innovative solution",
+   "highly innovative"
+  ],
+  "family": [
+   "innovation (n)",
+   "innovate (v)",
+   "innovator (n)"
+  ],
+  "pattern": {
+   "rule": "innovative + noun (idea, product, approach)",
+   "example": "an innovative approach"
+  },
+  "forms": [
+   "innovative"
+  ],
+  "cloze": {
+   "sentence": "Our ___ design saves forty percent of the energy.",
+   "answer": "innovative"
+  },
+  "formDrill": {
+   "sentence": "Tech startups drive ___ in the economy.",
+   "base": "innovative",
+   "answer": "innovation"
+  },
+  "fix": {
+   "wrong": "It is an innovation product.",
+   "right": "It is an innovative product.",
+   "why": "Use the adjective 'innovative' before a noun."
+  },
+  "distractors": [
+   "Old but still reliable.",
+   "Copied from another company.",
+   "Complicated and confusing."
+  ],
+  "tip": "'Innovative' describes things; 'innovator' describes the person."
+ },
+ {
+  "id": "regret",
+  "word": "regret",
+  "ipa": "/rɪˈɡret/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To feel sad or sorry about something you did or did not do.",
+  "examples": [
+   "I regret not saving more money when I was younger.",
+   "We regret to inform you that the flight is canceled."
+  ],
+  "collocations": [
+   "deeply regret",
+   "regret doing",
+   "no regrets"
+  ],
+  "family": [
+   "regret (n)",
+   "regretful (adj)",
+   "regrettable (adj)"
+  ],
+  "pattern": {
+   "rule": "regret + -ing (past) / regret + to + verb (formal news)",
+   "example": "I regret telling him. / We regret to inform you"
+  },
+  "forms": [
+   "regret",
+   "regrets",
+   "regretted",
+   "regretting"
+  ],
+  "cloze": {
+   "sentence": "She doesn't ___ leaving her old job; the new one pays better.",
+   "answer": "regret"
+  },
+  "formDrill": {
+   "sentence": "It is ___ that the shop closed so early.",
+   "base": "regret",
+   "answer": "regrettable"
+  },
+  "fix": {
+   "wrong": "I regret to leave school early.",
+   "right": "I regret leaving school early.",
+   "why": "Regret + -ing for past actions; regret to + verb is for bad news."
+  },
+  "distractors": [
+   "To be proud of an action.",
+   "To forget a past promise.",
+   "To plan something for later."
+  ],
+  "tip": "Regret + -ing = sorry about the past; regret + to = formal bad news."
+ },
+ {
+  "id": "integrity",
+  "word": "integrity",
+  "ipa": "/ɪnˈteɡ.rə.ti/",
+  "pos": "noun",
+  "level": "advanced",
+  "definition": "The quality of being honest and having strong moral principles.",
+  "examples": [
+   "The judge is respected for her integrity.",
+   "Journalists must keep their integrity even under pressure."
+  ],
+  "collocations": [
+   "person of integrity",
+   "professional integrity",
+   "with integrity"
+  ],
+  "family": [
+   "integral (adj)"
+  ],
+  "pattern": {
+   "rule": "integrity (uncountable noun) + of + person / with integrity",
+   "example": "She acted with integrity."
+  },
+  "forms": [
+   "integrity"
+  ],
+  "cloze": {
+   "sentence": "An accountant who hides errors has no ___.",
+   "answer": "integrity"
+  },
+  "fix": {
+   "wrong": "She has an integrity.",
+   "right": "She has integrity.",
+   "why": "Integrity is uncountable; don't use 'an' or the plural."
+  },
+  "distractors": [
+   "Great skill at a particular job.",
+   "The ability to make people laugh.",
+   "Strong physical strength."
+  ],
+  "tip": "Integrity is uncountable, so no 'a' or 'an' before it."
+ },
+ {
+  "id": "intuitive",
+  "word": "intuitive",
+  "ipa": "/ɪnˈtjuː.ɪ.tɪv/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Easy to use or understand without needing to be taught.",
+  "examples": [
+   "The app is intuitive; I learned it in five minutes.",
+   "She has an intuitive sense of what customers want."
+  ],
+  "collocations": [
+   "intuitive design",
+   "intuitive interface",
+   "intuitive understanding"
+  ],
+  "family": [
+   "intuition (n)",
+   "intuitively (adv)"
+  ],
+  "pattern": {
+   "rule": "intuitive + noun (design, system) / it is intuitive to + verb",
+   "example": "The layout is intuitive."
+  },
+  "forms": [
+   "intuitive"
+  ],
+  "cloze": {
+   "sentence": "The new software has a very ___ layout, so training was short.",
+   "answer": "intuitive"
+  },
+  "formDrill": {
+   "sentence": "I ___ knew the answer was wrong.",
+   "base": "intuitive",
+   "answer": "intuitively"
+  },
+  "fix": {
+   "wrong": "The app is very intuition to use.",
+   "right": "The app is very intuitive to use.",
+   "why": "Use the adjective 'intuitive', not the noun."
+  },
+  "distractors": [
+   "Hard to learn without a teacher.",
+   "Carefully based on tested facts.",
+   "Made to look luxurious."
+  ],
+  "tip": "Intuitive is often used for apps, websites and designs."
+ },
+ {
+  "id": "legitimate",
+  "word": "legitimate",
+  "ipa": "/lɪˈdʒɪt.ɪ.mət/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Allowed by law or rules, or fair and reasonable.",
+  "examples": [
+   "It is a legitimate business with all its licenses.",
+   "She had a legitimate reason for being late."
+  ],
+  "collocations": [
+   "legitimate business",
+   "legitimate concern",
+   "legitimate reason"
+  ],
+  "family": [
+   "legitimacy (n)",
+   "legitimately (adv)",
+   "illegitimate (adj)"
+  ],
+  "pattern": {
+   "rule": "legitimate + noun (reason, claim, business)",
+   "example": "a legitimate claim"
+  },
+  "forms": [
+   "legitimate"
+  ],
+  "cloze": {
+   "sentence": "Make sure the website is ___ before you enter your card details.",
+   "answer": "legitimate"
+  },
+  "formDrill": {
+   "sentence": "He ___ earned the money by running a shop.",
+   "base": "legitimate",
+   "answer": "legitimately"
+  },
+  "fix": {
+   "wrong": "It is a legitimate reason of complaining.",
+   "right": "It is a legitimate reason to complain.",
+   "why": "A reason takes to + verb, not 'of' + -ing."
+  },
+  "distractors": [
+   "Illegal but widely done.",
+   "Secret and not shown to others.",
+   "Popular and fashionable."
+  ],
+  "tip": "The opposite is 'illegitimate'; for illegal things, use 'illegal'."
+ },
+ {
+  "id": "achieve",
+  "word": "achieve",
+  "ipa": "/əˈtʃiːv/",
+  "pos": "verb",
+  "level": "everyday",
+  "definition": "To succeed in reaching a goal or result through effort.",
+  "examples": [
+   "She achieved her goal of running a marathon.",
+   "We hope to achieve better results this term."
+  ],
+  "collocations": [
+   "achieve a goal",
+   "achieve success",
+   "achieve results"
+  ],
+  "family": [
+   "achievement (n)",
+   "achievable (adj)",
+   "achiever (n)"
+  ],
+  "pattern": {
+   "rule": "achieve + noun (goal, result, success)",
+   "example": "He achieved his dream."
+  },
+  "forms": [
+   "achieve",
+   "achieves",
+   "achieved",
+   "achieving"
+  ],
+  "cloze": {
+   "sentence": "With daily practice, you can ___ fluent English in a year.",
+   "answer": "achieve"
+  },
+  "formDrill": {
+   "sentence": "Graduating was her proudest ___.",
+   "base": "achieve",
+   "answer": "achievement"
+  },
+  "fix": {
+   "wrong": "I achieved to pass the exam.",
+   "right": "I managed to pass the exam. / I achieved my goal of passing the exam.",
+   "why": "Achieve takes a noun object, not to + verb."
+  },
+  "distractors": [
+   "To try something once and stop.",
+   "To give up after failing.",
+   "To take a goal from another person."
+  ],
+  "tip": "Achieve needs an object (a goal, results); use 'manage to' before a verb."
+ },
+ {
+  "id": "mundane",
+  "word": "mundane",
+  "ipa": "/mʌnˈdeɪn/",
+  "pos": "adjective",
+  "level": "advanced",
+  "definition": "Ordinary and boring, lacking excitement.",
+  "examples": [
+   "He does mundane tasks like filing every morning.",
+   "She turned a mundane trip to the market into a fun adventure."
+  ],
+  "collocations": [
+   "mundane task",
+   "mundane routine",
+   "mundane details"
+  ],
+  "family": [
+   "mundanely (adv)"
+  ],
+  "pattern": {
+   "rule": "mundane + noun (task, routine, job)",
+   "example": "a mundane job"
+  },
+  "forms": [
+   "mundane"
+  ],
+  "cloze": {
+   "sentence": "After the holiday, she returned to her ___ routine of emails and meetings.",
+   "answer": "mundane"
+  },
+  "formDrill": {
+   "sentence": "He explained the steps so ___ that nobody stayed interested.",
+   "base": "mundane",
+   "answer": "mundanely"
+  },
+  "fix": {
+   "wrong": "Mundane problems like war and climate change worry me.",
+   "right": "Global problems like war and climate change worry me.",
+   "why": "'Mundane' means ordinary and boring, not 'worldwide'."
+  },
+  "distractors": [
+   "Very exciting and unusual.",
+   "Related to the whole world.",
+   "Very expensive and fancy."
+  ],
+  "tip": "Mundane ('ordinary') has nothing to do with 'moon' or 'monthly'."
+ }
+]

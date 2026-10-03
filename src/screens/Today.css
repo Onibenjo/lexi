@@ -1,0 +1,104 @@
+.streak-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 12px 6px 10px;
+  border-radius: 999px;
+  background: var(--card);
+  border: 1px solid var(--rule);
+  font-weight: 600;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+.streak-chip > svg {
+  color: var(--brick);
+}
+.streak-freeze {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  margin-left: 6px;
+  padding-left: 8px;
+  border-left: 1px solid var(--rule);
+  color: var(--ink-2);
+  font-weight: 500;
+}
+.today-eyebrow {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 0 20px;
+}
+.today-no {
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.today-note {
+  margin: 0 0 24px;
+  padding: 14px 16px;
+  background: var(--sage-soft);
+  border-radius: 14px;
+  font-size: 15px;
+}
+.today-review {
+  padding-top: 8vh;
+}
+.today-big {
+  font-size: clamp(42px, 12vw, 56px);
+  margin-top: 14px;
+}
+.today-sub {
+  font-size: 20px;
+  line-height: 1.45;
+  color: var(--ink-2);
+  margin: 16px 0 0;
+  text-wrap: pretty;
+}
+.today-cta {
+  position: sticky;
+  bottom: calc(var(--tabbar-h) + env(safe-area-inset-bottom) + 12px);
+  margin-top: 36px;
+  padding-top: 18px;
+  background: linear-gradient(to bottom, transparent, var(--paper) 30%);
+}
+.today-then {
+  text-align: center;
+  margin: 10px 0 0;
+}
+
+/* Done state */
+.done-today {
+  padding-top: 4vh;
+}
+.done-seal {
+  display: grid;
+  place-items: center;
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  border: 2px solid var(--brick);
+  color: var(--brick);
+  transform: rotate(-8deg);
+  box-shadow: inset 0 0 0 5px var(--paper), inset 0 0 0 6px var(--brick);
+}
+.done-seal span {
+  font: italic 600 22px/1 var(--serif);
+  letter-spacing: 0.02em;
+}
+.use-it {
+  margin: 28px 0 16px;
+  padding: 18px 18px 6px;
+}
+.use-it-line {
+  font-size: 17px;
+  margin: 10px 0 12px;
+}
+.use-it-line em {
+  font-style: normal;
+  font-weight: 600;
+}
+.use-it-line .muted {
+  display: block;
+  font-family: var(--sans);
+  font-size: 13px;
+  margin-top: 2px;
+}
