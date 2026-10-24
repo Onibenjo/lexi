@@ -1,4 +1,6 @@
+import { useState } from 'react'
 import { IconArrow } from '../components/Icons'
+import { SyncJoin } from '../components/SyncJoin'
 import { saveSettings } from '../lib/db'
 import './Pages.css'
 
@@ -9,7 +11,8 @@ const POINTS = [
   ['Streaks that bend', 'Freezes and a rest day cover the days life gets in the way.'],
 ]
 
-export function Welcome() {
+export function Welcome({ linkCode, onLinkUsed }: { linkCode?: string; onLinkUsed: () => void }) {
+  const [joining, setJoining] = useState(Boolean(linkCode))
   return (
     <main className="page welcome">
       <p className="eyebrow rise">A word a day</p>
@@ -27,6 +30,16 @@ export function Welcome() {
         <button className="btn btn-primary btn-block" onClick={() => saveSettings({ onboarded: true })}>
           See today’s word <IconArrow size={20} />
         </button>
+        {joining ? (
+          <div className="welcome-join">
+            <p className="hint">Enter the sync code from your other device.</p>
+            <SyncJoin initialCode={linkCode} onLinkUsed={onLinkUsed} onJoined={() => saveSettings({ onboarded: true })} />
+          </div>
+        ) : (
+          <button className="btn-text btn-block welcome-alt" onClick={() => setJoining(true)}>
+            Already use Lexi? Enter your sync code
+          </button>
+        )}
       </div>
     </main>
   )

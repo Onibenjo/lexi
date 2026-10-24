@@ -7,22 +7,28 @@ export function json(body: unknown, status = 200): Response {
   return Response.json(body, { status, headers: { 'cache-control': 'no-store' } })
 }
 
-/**
- * Rejects the request unless it carries the shared passcode, and applies a best-effort
- * per-IP limit (in memory, so per warm instance). The passcode is what actually keeps
- * strangers from spending the OpenRouter key.
- */
-export function guard(req: Request): Response | null {
-  if (!process.env.OPENROUTER_API_KEY) return json({ error: 'AI is not configured on the server.' }, 503)
+/** Rejects the request unless it carries the shared passcode (when one is configured). */
+export function checkPasscode(req: Request): Response | null {
   const expected = process.env.APP_PASSCODE
   if (expected && req.headers.get('x-lexi-passcode') !== expected) return json({ error: 'Wrong passcode.' }, 401)
-
-  const ip = req.headers.get('x-forwarded-for')?.split(',')[0].trim() ?? 'local'
-  const now = Date.now()
-  const recent = (hits.get(ip) ?? []).filter((t) => now - t < 3_600_000)
-  if (recent.length >= 60) return json({ error: 'Too many requests. Try again in a bit.' }, 429)
-  hits.set(ip, [...recent, now])
   return null
+}
+
+/** Best-effort per-IP limit, in memory, so it only counts calls on one warm instance. */
+export function rateLimit(req: Request, bucket: string, perHour: number): Response | null {
+  const ip = req.headers.get('x-forwarded-for')?.split(',')[0].trim() ?? 'local'
+  const key = `${bucket}:${ip}`
+  const now = Date.now()
+  const recent = (hits.get(key) ?? []).filter((t) => now - t < 3_600_000)
+  if (recent.length >= perHour) return json({ error: 'Too many requests. Try again in a bit.' }, 429)
+  hits.set(key, [...recent, now])
+  return null
+}
+
+/** Gate for the AI routes. The passcode is what actually keeps strangers from spending the OpenRouter key. */
+export function guard(req: Request): Response | null {
+  if (!process.env.OPENROUTER_API_KEY) return json({ error: 'AI is not configured on the server.' }, 503)
+  return checkPasscode(req) ?? rateLimit(req, 'ai', 60)
 }
 
 export async function readBody<T>(req: Request): Promise<T | null> {

@@ -355,3 +355,56 @@
 .welcome-cta {
   margin-top: 36px;
 }
+
+/* ── Sync ───────────────────────────────────────────── */
+.sync-code {
+  margin: 14px 0 4px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: var(--paper-2);
+  font: 500 19px/1.35 var(--serif);
+  letter-spacing: 0.01em;
+  overflow-wrap: anywhere;
+  user-select: all;
+}
+.setting .sync-status {
+  margin: 0 0 14px;
+}
+.sync-input {
+  font-size: 16px;
+}
+.sync-error {
+  margin: 8px 0 0;
+  color: var(--brick);
+  font-size: 14px;
+}
+.setting .sync-note {
+  margin: 10px 0 0;
+}
+.sync-leave {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 4px 16px;
+  margin-top: 6px;
+}
+.sync-confirm {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 15px;
+  color: var(--ink-2);
+}
+.sync-danger {
+  color: var(--brick);
+  font-weight: 600;
+}
+.welcome-alt {
+  margin-top: 8px;
+}
+.welcome-join {
+  margin-top: 24px;
+}
+.welcome-join .hint {
+  margin: 0 0 10px;
+}

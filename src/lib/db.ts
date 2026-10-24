@@ -40,6 +40,7 @@ export interface Settings {
   passcode: string // unlocks the AI endpoints
   reminderTime: string // "HH:MM"
   onboarded: boolean
+  syncedAt: number // when a synced setting last changed (see SYNCED_KEYS)
 }
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -49,7 +50,11 @@ export const DEFAULT_SETTINGS: Settings = {
   passcode: '',
   reminderTime: '08:00',
   onboarded: false,
+  syncedAt: 0,
 }
+
+/** Settings that follow you to other devices. Theme and onboarding stay on each device. */
+export const SYNCED_KEYS = ['newPerDay', 'restWeekday', 'reminderTime', 'passcode'] as const
 
 export const db = new Dexie('lexi') as Dexie & {
   cards: EntityTable<StoredCard, 'wordId'>
@@ -74,7 +79,8 @@ export async function getSettings(): Promise<Settings> {
 
 export async function saveSettings(patch: Partial<Settings>): Promise<void> {
   const current = await getSettings()
-  await db.kv.put({ key: 'settings', value: { ...current, ...patch } })
+  const synced = SYNCED_KEYS.some((k) => k in patch && patch[k] !== current[k])
+  await db.kv.put({ key: 'settings', value: { ...current, ...patch, ...(synced ? { syncedAt: Date.now() } : {}) } })
 }
 
 export async function touchDay(day: string, update: (d: DayRecord) => void): Promise<void> {
@@ -111,11 +117,14 @@ export async function importAll(json: string): Promise<void> {
     card: { ...c.card, due: new Date(c.card.due), last_review: c.card.last_review ? new Date(c.card.last_review) : undefined },
   }))
   await db.transaction('rw', [db.cards, db.reviews, db.days, db.sentences, db.kv], async () => {
+    // A backup without a sync code shouldn't unlink a device that is syncing.
+    const sync = await db.kv.get('sync')
+    const kv = (data.kv as { key: string; value: unknown }[]).some((r) => r.key === 'sync') || !sync ? data.kv : [...data.kv, sync]
     await Promise.all([db.cards.clear(), db.reviews.clear(), db.days.clear(), db.sentences.clear(), db.kv.clear()])
     await db.cards.bulkPut(cards)
     await db.reviews.bulkPut(data.reviews)
     await db.days.bulkPut(data.days)
     await db.sentences.bulkPut(data.sentences)
-    await db.kv.bulkPut(data.kv)
+    await db.kv.bulkPut(kv)
   })
 }

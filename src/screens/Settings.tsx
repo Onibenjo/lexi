@@ -1,12 +1,13 @@
 import { useRef, useState } from 'react'
 import { exportAll, importAll, saveSettings, type Theme } from '../lib/db'
 import { downloadReminder } from '../lib/device'
+import { SyncSettings } from '../components/SyncSettings'
 import type { Lexi } from '../hooks/useLexi'
 import './Pages.css'
 
 const WEEKDAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
 
-export function Settings({ lexi }: { lexi: Lexi }) {
+export function Settings({ lexi, linkCode, onLinkUsed }: { lexi: Lexi; linkCode?: string; onLinkUsed: () => void }) {
   const s = lexi.settings
   const [pass, setPass] = useState(s.passcode)
   const [msg, setMsg] = useState<string | null>(null)
@@ -115,9 +116,11 @@ export function Settings({ lexi }: { lexi: Lexi }) {
         </form>
       </section>
 
+      <SyncSettings passcode={s.passcode} linkCode={linkCode} onLinkUsed={onLinkUsed} onMessage={setMsg} />
+
       <section className="setting">
-        <h2>Your data</h2>
-        <p className="hint">Progress lives only on this phone. Keep a backup now and then.</p>
+        <h2>Backup file</h2>
+        <p className="hint">A copy of your progress you keep yourself. Restoring replaces what’s on this device.</p>
         <div className="setting-row">
           <button className="btn btn-ghost" onClick={backup}>
             Export backup
